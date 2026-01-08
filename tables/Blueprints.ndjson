@@ -1,0 +1,2 @@
+{"id": 2, "name": "ModelTestObj", "description": "Object used to test models", "accountid": 6, "characterid": 2, "price": 50, "rating": 0, "categoryid": 0, "lxfpath": "str//testObjMTS2.lxfml", "deleted": 0, "created": 1206576000, "modified": 1206576000}
+{"id": 1, "name": "BlueprintTestObj", "description": "Object used to test blueprints", "accountid": 5, "characterid": 6, "price": 50, "rating": 0, "categoryid": 0, "lxfpath": "str//testObjMTS.lxfml", "deleted": 0, "created": 1184371200, "modified": 1185062400}

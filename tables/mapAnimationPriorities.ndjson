@@ -1,0 +1,12 @@
+{"id": 1, "name": "IDLE", "priority": 0.0}
+{"id": 2, "name": "ATTACK_IDLE", "priority": 0.10000000149011612}
+{"id": 3, "name": "ACTIVITY_IDLE_PRIORITY", "priority": 0.20000000298023224}
+{"id": 4, "name": "SECONDARY_PRIORITY", "priority": 0.4000000059604645}
+{"id": 5, "name": "PRIMARY_MOVEMENT_PRIORITY", "priority": 0.5}
+{"id": 6, "name": "ACTIVITY_ACTION_PRIORITY", "priority": 0.5}
+{"id": 7, "name": "JUMP_PRIORITY", "priority": 1.0}
+{"id": 8, "name": "ATTACK_CRITICAL_PRIORITY", "priority": 1.0700000524520874}
+{"id": 9, "name": "ATTACK_CRITICAL_ONHIT", "priority": 1.0800000429153442}
+{"id": 10, "name": "ACTIVITY_QUICKBUILD_PRIORITY", "priority": 1.090000033378601}
+{"id": 11, "name": "ACTIVITY_PET_ABILITY_PRIORITY", "priority": 1.2000000476837158}
+{"id": 12, "name": "SECONDARY_OVERRIDE_PRIORITY", "priority": 2.0}

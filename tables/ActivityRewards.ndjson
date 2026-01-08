@@ -1,0 +1,292 @@
+{"objectTemplate": 12416, "ActivityRewardIndex": 159, "activityRating": 1, "LootMatrixIndex": 690, "CurrencyIndex": 4, "ChallengeRating": 1, "description": "NT Pipe Rebuild 6"}
+{"objectTemplate": 1, "ActivityRewardIndex": 17, "activityRating": -1, "LootMatrixIndex": null, "CurrencyIndex": 1, "ChallengeRating": 7, "description": "AG Obstacle Course Activity"}
+{"objectTemplate": 1, "ActivityRewardIndex": 18, "activityRating": 3000, "LootMatrixIndex": null, "CurrencyIndex": 1, "ChallengeRating": 5, "description": "AG Obstacle Course Activity"}
+{"objectTemplate": 1, "ActivityRewardIndex": 19, "activityRating": 5000, "LootMatrixIndex": null, "CurrencyIndex": 1, "ChallengeRating": 3, "description": "AG Obstacle Course Activity"}
+{"objectTemplate": 1, "ActivityRewardIndex": 20, "activityRating": 8000, "LootMatrixIndex": null, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Obstacle Course Activity"}
+{"objectTemplate": 12420, "ActivityRewardIndex": 160, "activityRating": 1, "LootMatrixIndex": 690, "CurrencyIndex": 4, "ChallengeRating": 1, "description": "NT - Parrot Collectable"}
+{"objectTemplate": 5, "ActivityRewardIndex": 25, "activityRating": -1, "LootMatrixIndex": 209, "CurrencyIndex": 57, "ChallengeRating": 1, "description": "AG Survival Instance Default"}
+{"objectTemplate": 5, "ActivityRewardIndex": 33, "activityRating": 60, "LootMatrixIndex": 210, "CurrencyIndex": 39, "ChallengeRating": 2, "description": "AG Survival Instance 1 minute"}
+{"objectTemplate": 5, "ActivityRewardIndex": 34, "activityRating": 120, "LootMatrixIndex": 211, "CurrencyIndex": 40, "ChallengeRating": 3, "description": "AG Survival Instance 2 minutes"}
+{"objectTemplate": 5, "ActivityRewardIndex": 35, "activityRating": 180, "LootMatrixIndex": 212, "CurrencyIndex": 41, "ChallengeRating": 4, "description": "AG Survival Instance 3 minutes"}
+{"objectTemplate": 5, "ActivityRewardIndex": 36, "activityRating": 240, "LootMatrixIndex": 213, "CurrencyIndex": 42, "ChallengeRating": 5, "description": "AG Survival Instance 4 minutes"}
+{"objectTemplate": 5, "ActivityRewardIndex": 37, "activityRating": 300, "LootMatrixIndex": 214, "CurrencyIndex": 43, "ChallengeRating": 6, "description": "AG Survival Instance 5 minutes"}
+{"objectTemplate": 5, "ActivityRewardIndex": 38, "activityRating": 360, "LootMatrixIndex": 413, "CurrencyIndex": 44, "ChallengeRating": 7, "description": "AG Survival Instance 6 minutes"}
+{"objectTemplate": 5, "ActivityRewardIndex": 71, "activityRating": 420, "LootMatrixIndex": 449, "CurrencyIndex": 45, "ChallengeRating": 8, "description": "AG Survival Instance 7 minutes"}
+{"objectTemplate": 5, "ActivityRewardIndex": 130, "activityRating": 480, "LootMatrixIndex": 455, "CurrencyIndex": 46, "ChallengeRating": 9, "description": "AG Survival Instance 8 minutes"}
+{"objectTemplate": 5, "ActivityRewardIndex": 131, "activityRating": 540, "LootMatrixIndex": 456, "CurrencyIndex": 47, "ChallengeRating": 10, "description": "AG Survival Instance 9 minutes"}
+{"objectTemplate": 5, "ActivityRewardIndex": 132, "activityRating": 600, "LootMatrixIndex": 457, "CurrencyIndex": 48, "ChallengeRating": 11, "description": "AG Survival Instance 10 minutes"}
+{"objectTemplate": 5, "ActivityRewardIndex": 133, "activityRating": 660, "LootMatrixIndex": 458, "CurrencyIndex": 49, "ChallengeRating": 12, "description": "AG Survival Instance 11 minutes"}
+{"objectTemplate": 6, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds"}
+{"objectTemplate": 7, "ActivityRewardIndex": 27, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NS Quickbuilds"}
+{"objectTemplate": 12551, "ActivityRewardIndex": 161, "activityRating": -1, "LootMatrixIndex": 611, "CurrencyIndex": 12, "ChallengeRating": 1, "description": "Venture Explore Consoles"}
+{"objectTemplate": 8, "ActivityRewardIndex": 28, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "GF Quickbuilds"}
+{"objectTemplate": 9, "ActivityRewardIndex": 29, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "FV Quickbuilds"}
+{"objectTemplate": 10, "ActivityRewardIndex": 30, "activityRating": 1, "LootMatrixIndex": 297, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "PC Quickbuilds"}
+{"objectTemplate": 11, "ActivityRewardIndex": 18, "activityRating": -1, "LootMatrixIndex": null, "CurrencyIndex": 13, "ChallengeRating": 1, "description": "AG Rocketship Rebuild"}
+{"objectTemplate": 12, "ActivityRewardIndex": 31, "activityRating": 1, "LootMatrixIndex": null, "CurrencyIndex": null, "ChallengeRating": 1, "description": "Empty quickbuilds"}
+{"objectTemplate": 12301, "ActivityRewardIndex": 150, "activityRating": 1, "LootMatrixIndex": 506, "CurrencyIndex": 51, "ChallengeRating": 1, "description": "Winter 2010 Snowmen QB"}
+{"objectTemplate": 13, "ActivityRewardIndex": 32, "activityRating": 1, "LootMatrixIndex": null, "CurrencyIndex": null, "ChallengeRating": 1, "description": "FV PvP Quickbuilds"}
+{"objectTemplate": 14, "ActivityRewardIndex": 231, "activityRating": 100, "LootMatrixIndex": 860, "CurrencyIndex": 120, "ChallengeRating": 1, "description": "AG Spider Queen 1 Player"}
+{"objectTemplate": 14, "ActivityRewardIndex": 232, "activityRating": 200, "LootMatrixIndex": 861, "CurrencyIndex": 121, "ChallengeRating": 1, "description": "AG Spider Queen 2 Player"}
+{"objectTemplate": 12174, "ActivityRewardIndex": 138, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "Aura Mar Jukebox QB"}
+{"objectTemplate": 11279, "ActivityRewardIndex": 151, "activityRating": -1, "LootMatrixIndex": 566, "CurrencyIndex": 88, "ChallengeRating": 1, "description": "GF Wishing Well 1"}
+{"objectTemplate": 11279, "ActivityRewardIndex": 152, "activityRating": 500, "LootMatrixIndex": 567, "CurrencyIndex": 89, "ChallengeRating": 1, "description": "GF Wishing Well 2"}
+{"objectTemplate": 11279, "ActivityRewardIndex": 153, "activityRating": 750, "LootMatrixIndex": 568, "CurrencyIndex": 90, "ChallengeRating": 1, "description": "GF Wishing Well 3"}
+{"objectTemplate": 11279, "ActivityRewardIndex": 154, "activityRating": 900, "LootMatrixIndex": 569, "CurrencyIndex": 91, "ChallengeRating": 1, "description": "GF Wishing Well 4"}
+{"objectTemplate": 11279, "ActivityRewardIndex": 155, "activityRating": 950, "LootMatrixIndex": 570, "CurrencyIndex": 92, "ChallengeRating": 1, "description": "GF Wishing Well 5"}
+{"objectTemplate": 11279, "ActivityRewardIndex": 156, "activityRating": 975, "LootMatrixIndex": 571, "CurrencyIndex": 93, "ChallengeRating": 1, "description": "GF Wishing Well 6"}
+{"objectTemplate": 11279, "ActivityRewardIndex": 157, "activityRating": 998, "LootMatrixIndex": 572, "CurrencyIndex": 94, "ChallengeRating": 1, "description": "GF Wishing Well 7"}
+{"objectTemplate": 11279, "ActivityRewardIndex": 158, "activityRating": 999, "LootMatrixIndex": 573, "CurrencyIndex": 95, "ChallengeRating": 1, "description": "GF Wishing Well 8"}
+{"objectTemplate": 15, "ActivityRewardIndex": 38, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "GF Quickbuilds - Pirate Arch"}
+{"objectTemplate": 11280, "ActivityRewardIndex": 159, "activityRating": -1, "LootMatrixIndex": 574, "CurrencyIndex": 96, "ChallengeRating": 1, "description": "NS Wishing Well 1"}
+{"objectTemplate": 11280, "ActivityRewardIndex": 160, "activityRating": 500, "LootMatrixIndex": 575, "CurrencyIndex": 97, "ChallengeRating": 1, "description": "NS Wishing Well 2"}
+{"objectTemplate": 11280, "ActivityRewardIndex": 161, "activityRating": 750, "LootMatrixIndex": 576, "CurrencyIndex": 98, "ChallengeRating": 1, "description": "NS Wishing Well 3"}
+{"objectTemplate": 11280, "ActivityRewardIndex": 162, "activityRating": 900, "LootMatrixIndex": 577, "CurrencyIndex": 99, "ChallengeRating": 1, "description": "NS Wishing Well 4"}
+{"objectTemplate": 11280, "ActivityRewardIndex": 163, "activityRating": 950, "LootMatrixIndex": 578, "CurrencyIndex": 100, "ChallengeRating": 1, "description": "NS Wishing Well 5"}
+{"objectTemplate": 11280, "ActivityRewardIndex": 164, "activityRating": 975, "LootMatrixIndex": 579, "CurrencyIndex": 101, "ChallengeRating": 1, "description": "NS Wishing Well 6"}
+{"objectTemplate": 11280, "ActivityRewardIndex": 165, "activityRating": 998, "LootMatrixIndex": 580, "CurrencyIndex": 102, "ChallengeRating": 1, "description": "NS Wishing Well 7"}
+{"objectTemplate": 11280, "ActivityRewardIndex": 166, "activityRating": 999, "LootMatrixIndex": 581, "CurrencyIndex": 103, "ChallengeRating": 1, "description": "NS Wishing Well 8"}
+{"objectTemplate": 11281, "ActivityRewardIndex": 167, "activityRating": -1, "LootMatrixIndex": 582, "CurrencyIndex": 104, "ChallengeRating": 1, "description": "AG Wishing Well 1"}
+{"objectTemplate": 11281, "ActivityRewardIndex": 168, "activityRating": 500, "LootMatrixIndex": 583, "CurrencyIndex": 105, "ChallengeRating": 1, "description": "AG Wishing Well 2"}
+{"objectTemplate": 11281, "ActivityRewardIndex": 169, "activityRating": 750, "LootMatrixIndex": 584, "CurrencyIndex": 106, "ChallengeRating": 1, "description": "AG Wishing Well 3"}
+{"objectTemplate": 11281, "ActivityRewardIndex": 170, "activityRating": 900, "LootMatrixIndex": 585, "CurrencyIndex": 107, "ChallengeRating": 1, "description": "AG Wishing Well 4"}
+{"objectTemplate": 11281, "ActivityRewardIndex": 171, "activityRating": 950, "LootMatrixIndex": 586, "CurrencyIndex": 108, "ChallengeRating": 1, "description": "AG Wishing Well 5"}
+{"objectTemplate": 11281, "ActivityRewardIndex": 172, "activityRating": 975, "LootMatrixIndex": 587, "CurrencyIndex": 109, "ChallengeRating": 1, "description": "AG Wishing Well 6"}
+{"objectTemplate": 11281, "ActivityRewardIndex": 173, "activityRating": 998, "LootMatrixIndex": 588, "CurrencyIndex": 110, "ChallengeRating": 1, "description": "AG Wishing Well 7"}
+{"objectTemplate": 11281, "ActivityRewardIndex": 174, "activityRating": 999, "LootMatrixIndex": 589, "CurrencyIndex": 111, "ChallengeRating": 1, "description": "AG Wishing Well 8"}
+{"objectTemplate": 17, "ActivityRewardIndex": 38, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "GF Pet X QB"}
+{"objectTemplate": 12177, "ActivityRewardIndex": 139, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "Aura Mar Fixed Computer QB"}
+{"objectTemplate": 11282, "ActivityRewardIndex": 167, "activityRating": -1, "LootMatrixIndex": 719, "CurrencyIndex": 112, "ChallengeRating": 1, "description": "NT Wishing Well 1"}
+{"objectTemplate": 11282, "ActivityRewardIndex": 168, "activityRating": 500, "LootMatrixIndex": 720, "CurrencyIndex": 113, "ChallengeRating": 1, "description": "NT Wishing Well 2"}
+{"objectTemplate": 11282, "ActivityRewardIndex": 169, "activityRating": 750, "LootMatrixIndex": 721, "CurrencyIndex": 114, "ChallengeRating": 1, "description": "NT Wishing Well 3"}
+{"objectTemplate": 11282, "ActivityRewardIndex": 170, "activityRating": 900, "LootMatrixIndex": 722, "CurrencyIndex": 115, "ChallengeRating": 1, "description": "NT Wishing Well 4"}
+{"objectTemplate": 11282, "ActivityRewardIndex": 171, "activityRating": 950, "LootMatrixIndex": 723, "CurrencyIndex": 116, "ChallengeRating": 1, "description": "NT Wishing Well 5"}
+{"objectTemplate": 11282, "ActivityRewardIndex": 172, "activityRating": 975, "LootMatrixIndex": 724, "CurrencyIndex": 117, "ChallengeRating": 1, "description": "NT Wishing Well 6"}
+{"objectTemplate": 11282, "ActivityRewardIndex": 173, "activityRating": 998, "LootMatrixIndex": 725, "CurrencyIndex": 118, "ChallengeRating": 1, "description": "NT Wishing Well 7"}
+{"objectTemplate": 11282, "ActivityRewardIndex": 174, "activityRating": 999, "LootMatrixIndex": 726, "CurrencyIndex": 119, "ChallengeRating": 1, "description": "NT Wishing Well 8"}
+{"objectTemplate": 8340, "ActivityRewardIndex": 0, "activityRating": 1, "LootMatrixIndex": null, "CurrencyIndex": null, "ChallengeRating": 1, "description": "FV Dragon Smashing Troll"}
+{"objectTemplate": 21, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds - AG wall"}
+{"objectTemplate": 22, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds - Monument finish line"}
+{"objectTemplate": 23, "ActivityRewardIndex": 28, "activityRating": 1, "LootMatrixIndex": null, "CurrencyIndex": null, "ChallengeRating": 1, "description": "GF Quickbuilds - Crow's nest"}
+{"objectTemplate": 25, "ActivityRewardIndex": 27, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NS Quickbuilds - Guitar"}
+{"objectTemplate": 26, "ActivityRewardIndex": 27, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NS Quickbuilds - Bass"}
+{"objectTemplate": 27, "ActivityRewardIndex": 27, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NS Quickbuilds - Keyboard"}
+{"objectTemplate": 28, "ActivityRewardIndex": 27, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NS Quickbuilds - Drums"}
+{"objectTemplate": 29, "ActivityRewardIndex": 28, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "GF Quickbuilds - Pirate Arch"}
+{"objectTemplate": 6685, "ActivityRewardIndex": 28, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "GF Quickbuilds - Siren"}
+{"objectTemplate": 30, "ActivityRewardIndex": 27, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NS Quickbuilds - Duck"}
+{"objectTemplate": 6686, "ActivityRewardIndex": 28, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "GF Quickbuilds - Siren"}
+{"objectTemplate": 12190, "ActivityRewardIndex": 140, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "Aura Mar Ronin Stunner QB"}
+{"objectTemplate": 31, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "Test Spider Cave quickbuilds"}
+{"objectTemplate": 7583, "ActivityRewardIndex": 4, "activityRating": -1, "LootMatrixIndex": null, "CurrencyIndex": 16, "ChallengeRating": 1, "description": "NS Shooting Gallery Rating 1"}
+{"objectTemplate": 7583, "ActivityRewardIndex": 5, "activityRating": 15000, "LootMatrixIndex": null, "CurrencyIndex": 17, "ChallengeRating": 2, "description": "NS Shooting Gallery Rating 2"}
+{"objectTemplate": 7583, "ActivityRewardIndex": 7, "activityRating": 75000, "LootMatrixIndex": null, "CurrencyIndex": 18, "ChallengeRating": 3, "description": "NS Shooting Gallery Rating 3"}
+{"objectTemplate": 7583, "ActivityRewardIndex": 8, "activityRating": 150000, "LootMatrixIndex": null, "CurrencyIndex": 19, "ChallengeRating": 4, "description": "NS Shooting Gallery Rating 4"}
+{"objectTemplate": 7583, "ActivityRewardIndex": 21, "activityRating": 250000, "LootMatrixIndex": null, "CurrencyIndex": 20, "ChallengeRating": 5, "description": "NS Shooting Gallery Rating 5"}
+{"objectTemplate": 7583, "ActivityRewardIndex": 22, "activityRating": 350000, "LootMatrixIndex": null, "CurrencyIndex": 21, "ChallengeRating": 6, "description": "NS Shooting Gallery Rating 6"}
+{"objectTemplate": 7583, "ActivityRewardIndex": 23, "activityRating": 450000, "LootMatrixIndex": null, "CurrencyIndex": 22, "ChallengeRating": 7, "description": "NS Shooting Gallery Rating 7"}
+{"objectTemplate": 32, "ActivityRewardIndex": 28, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "GF Quickbuilds - Siren"}
+{"objectTemplate": 12192, "ActivityRewardIndex": 160, "activityRating": 1, "LootMatrixIndex": 535, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM Bone Pet Dig"}
+{"objectTemplate": 33, "ActivityRewardIndex": 27, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NS Quickbuilds - Speaker"}
+{"objectTemplate": 34, "ActivityRewardIndex": 27, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NS Quickbuilds - Lasers"}
+{"objectTemplate": 35, "ActivityRewardIndex": 27, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NS Quickbuilds - Spotlight"}
+{"objectTemplate": 36, "ActivityRewardIndex": 27, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NS Quickbuilds - Fireworks"}
+{"objectTemplate": 37, "ActivityRewardIndex": 41, "activityRating": 0, "LootMatrixIndex": 199, "CurrencyIndex": 16, "ChallengeRating": 1, "description": "PvP Siege Winner T1"}
+{"objectTemplate": 37, "ActivityRewardIndex": 42, "activityRating": 500, "LootMatrixIndex": 198, "CurrencyIndex": 17, "ChallengeRating": 1, "description": "PvP Siege Winner T2"}
+{"objectTemplate": 37, "ActivityRewardIndex": 43, "activityRating": 1500, "LootMatrixIndex": 197, "CurrencyIndex": 18, "ChallengeRating": 1, "description": "PvP Siege Winner T3"}
+{"objectTemplate": 37, "ActivityRewardIndex": 44, "activityRating": 3000, "LootMatrixIndex": 239, "CurrencyIndex": 19, "ChallengeRating": 1, "description": "PvP Siege Winner T4"}
+{"objectTemplate": 37, "ActivityRewardIndex": 45, "activityRating": 4000, "LootMatrixIndex": 241, "CurrencyIndex": 20, "ChallengeRating": 1, "description": "PvP Siege Winner T5"}
+{"objectTemplate": 37, "ActivityRewardIndex": 46, "activityRating": 0, "LootMatrixIndex": 202, "CurrencyIndex": 16, "ChallengeRating": 1, "description": "PvP Siege Loser T1"}
+{"objectTemplate": 37, "ActivityRewardIndex": 47, "activityRating": 5, "LootMatrixIndex": 201, "CurrencyIndex": 16, "ChallengeRating": 1, "description": "PvP Siege Loser T2"}
+{"objectTemplate": 37, "ActivityRewardIndex": 48, "activityRating": 15, "LootMatrixIndex": 200, "CurrencyIndex": 16, "ChallengeRating": 1, "description": "PvP Siege Loser T3"}
+{"objectTemplate": 37, "ActivityRewardIndex": 49, "activityRating": 30, "LootMatrixIndex": 240, "CurrencyIndex": 16, "ChallengeRating": 1, "description": "PvP Siege Loser T4"}
+{"objectTemplate": 37, "ActivityRewardIndex": 50, "activityRating": 40, "LootMatrixIndex": 242, "CurrencyIndex": 16, "ChallengeRating": 1, "description": "PvP Siege Loser T5"}
+{"objectTemplate": 39, "ActivityRewardIndex": 57, "activityRating": 61, "LootMatrixIndex": 285, "CurrencyIndex": 25, "ChallengeRating": 1, "description": "GF Racetrack 1st Place - 6 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 58, "activityRating": 62, "LootMatrixIndex": 353, "CurrencyIndex": 26, "ChallengeRating": 1, "description": "GF Racetrack 2nd Place - 6 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 59, "activityRating": 63, "LootMatrixIndex": 354, "CurrencyIndex": 27, "ChallengeRating": 1, "description": "GF Racetrack 3rd Place - 6 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 60, "activityRating": 64, "LootMatrixIndex": 355, "CurrencyIndex": 28, "ChallengeRating": 1, "description": "GF Racetrack 4th Place - 6 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 61, "activityRating": 65, "LootMatrixIndex": 356, "CurrencyIndex": 29, "ChallengeRating": 1, "description": "GF Racetrack 5th Place - 6 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 62, "activityRating": 66, "LootMatrixIndex": 357, "CurrencyIndex": 30, "ChallengeRating": 1, "description": "GF Racetrack 6th Place - 6 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 102, "activityRating": 51, "LootMatrixIndex": 285, "CurrencyIndex": 25, "ChallengeRating": 1, "description": "GF Racetrack 1st Place - 5 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 103, "activityRating": 52, "LootMatrixIndex": 353, "CurrencyIndex": 26, "ChallengeRating": 1, "description": "GF Racetrack 2nd Place - 5 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 104, "activityRating": 53, "LootMatrixIndex": 354, "CurrencyIndex": 27, "ChallengeRating": 1, "description": "GF Racetrack 3rd Place - 5 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 105, "activityRating": 54, "LootMatrixIndex": 355, "CurrencyIndex": 28, "ChallengeRating": 1, "description": "GF Racetrack 4th Place - 5 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 106, "activityRating": 55, "LootMatrixIndex": 356, "CurrencyIndex": 29, "ChallengeRating": 1, "description": "GF Racetrack 5th Place - 5 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 107, "activityRating": 41, "LootMatrixIndex": 285, "CurrencyIndex": 25, "ChallengeRating": 1, "description": "GF Racetrack 1st Place - 4 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 108, "activityRating": 42, "LootMatrixIndex": 353, "CurrencyIndex": 26, "ChallengeRating": 1, "description": "GF Racetrack 2nd Place - 4 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 109, "activityRating": 43, "LootMatrixIndex": 354, "CurrencyIndex": 27, "ChallengeRating": 1, "description": "GF Racetrack 3rd Place - 4 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 110, "activityRating": 44, "LootMatrixIndex": 355, "CurrencyIndex": 28, "ChallengeRating": 1, "description": "GF Racetrack 4th Place - 4 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 111, "activityRating": 31, "LootMatrixIndex": 459, "CurrencyIndex": 34, "ChallengeRating": 1, "description": "GF Racetrack 1st Place - 3 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 112, "activityRating": 32, "LootMatrixIndex": 460, "CurrencyIndex": 35, "ChallengeRating": 1, "description": "GF Racetrack 2nd Place - 3 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 113, "activityRating": 33, "LootMatrixIndex": 461, "CurrencyIndex": 36, "ChallengeRating": 1, "description": "GF Racetrack 3rd Place - 3 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 114, "activityRating": 21, "LootMatrixIndex": 462, "CurrencyIndex": 37, "ChallengeRating": 1, "description": "GF Racetrack 1st Place - 2 players"}
+{"objectTemplate": 39, "ActivityRewardIndex": 115, "activityRating": 22, "LootMatrixIndex": 463, "CurrencyIndex": 38, "ChallengeRating": 1, "description": "GF Racetrack 2nd Place - 2 players"}
+{"objectTemplate": 12199, "ActivityRewardIndex": 161, "activityRating": -1, "LootMatrixIndex": 501, "CurrencyIndex": 12, "ChallengeRating": 1, "description": "AM - Blue Flowers to be watered"}
+{"objectTemplate": 40, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds - Beacon"}
+{"objectTemplate": 42, "ActivityRewardIndex": 51, "activityRating": 61, "LootMatrixIndex": 629, "CurrencyIndex": 58, "ChallengeRating": 1, "description": "NS Racetrack 1st Place - 6 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 52, "activityRating": 62, "LootMatrixIndex": 630, "CurrencyIndex": 59, "ChallengeRating": 1, "description": "NS Racetrack 2nd Place - 6 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 53, "activityRating": 63, "LootMatrixIndex": 631, "CurrencyIndex": 60, "ChallengeRating": 1, "description": "NS Racetrack 3rd Place - 6 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 54, "activityRating": 64, "LootMatrixIndex": 633, "CurrencyIndex": 61, "ChallengeRating": 1, "description": "NS Racetrack 4th Place - 6 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 55, "activityRating": 65, "LootMatrixIndex": 634, "CurrencyIndex": 62, "ChallengeRating": 1, "description": "NS Racetrack 5th Place - 6 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 56, "activityRating": 66, "LootMatrixIndex": 635, "CurrencyIndex": 63, "ChallengeRating": 1, "description": "NS Racetrack 6th Place - 6 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 116, "activityRating": 51, "LootMatrixIndex": 629, "CurrencyIndex": 58, "ChallengeRating": 1, "description": "NS Racetrack 1st Place - 5 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 117, "activityRating": 52, "LootMatrixIndex": 630, "CurrencyIndex": 59, "ChallengeRating": 1, "description": "NS Racetrack 2nd Place - 5 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 118, "activityRating": 53, "LootMatrixIndex": 631, "CurrencyIndex": 60, "ChallengeRating": 1, "description": "NS Racetrack 3rd Place - 5 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 119, "activityRating": 54, "LootMatrixIndex": 633, "CurrencyIndex": 61, "ChallengeRating": 1, "description": "NS Racetrack 4th Place - 5 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 120, "activityRating": 55, "LootMatrixIndex": 634, "CurrencyIndex": 62, "ChallengeRating": 1, "description": "NS Racetrack 5th Place - 5 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 121, "activityRating": 41, "LootMatrixIndex": 629, "CurrencyIndex": 58, "ChallengeRating": 1, "description": "NS Racetrack 1st Place - 4 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 122, "activityRating": 42, "LootMatrixIndex": 630, "CurrencyIndex": 59, "ChallengeRating": 1, "description": "NS Racetrack 2nd Place - 4 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 123, "activityRating": 43, "LootMatrixIndex": 631, "CurrencyIndex": 60, "ChallengeRating": 1, "description": "NS Racetrack 3rd Place - 4 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 124, "activityRating": 44, "LootMatrixIndex": 633, "CurrencyIndex": 61, "ChallengeRating": 1, "description": "NS Racetrack 4th Place - 4 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 125, "activityRating": 31, "LootMatrixIndex": 637, "CurrencyIndex": 64, "ChallengeRating": 1, "description": "NS Racetrack 1st Place - 3 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 126, "activityRating": 32, "LootMatrixIndex": 638, "CurrencyIndex": 65, "ChallengeRating": 1, "description": "NS Racetrack 2nd Place - 3 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 127, "activityRating": 33, "LootMatrixIndex": 639, "CurrencyIndex": 66, "ChallengeRating": 1, "description": "NS Racetrack 3rd Place - 3 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 128, "activityRating": 21, "LootMatrixIndex": 640, "CurrencyIndex": 67, "ChallengeRating": 1, "description": "NS Racetrack 1st Place - 2 players"}
+{"objectTemplate": 42, "ActivityRewardIndex": 129, "activityRating": 22, "LootMatrixIndex": 641, "CurrencyIndex": 68, "ChallengeRating": 1, "description": "NS Racetrack 2nd Place - 2 players"}
+{"objectTemplate": 44, "ActivityRewardIndex": 162, "activityRating": -1, "LootMatrixIndex": 598, "CurrencyIndex": 1, "ChallengeRating": 4, "description": "Foot Race"}
+{"objectTemplate": 45, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 307, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "VE Quickbuilds"}
+{"objectTemplate": 46, "ActivityRewardIndex": 163, "activityRating": -1, "LootMatrixIndex": 598, "CurrencyIndex": 1, "ChallengeRating": 4, "description": "FV Foot Race"}
+{"objectTemplate": 47, "ActivityRewardIndex": 164, "activityRating": -1, "LootMatrixIndex": 598, "CurrencyIndex": 1, "ChallengeRating": 4, "description": "FV Foot Race 2"}
+{"objectTemplate": 6319, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds - Rebuildable Wall"}
+{"objectTemplate": 48, "ActivityRewardIndex": 165, "activityRating": -1, "LootMatrixIndex": 598, "CurrencyIndex": 1, "ChallengeRating": 4, "description": "FV Foot Race 3"}
+{"objectTemplate": 49, "ActivityRewardIndex": 166, "activityRating": -1, "LootMatrixIndex": 598, "CurrencyIndex": 1, "ChallengeRating": 4, "description": "NS Foot Race"}
+{"objectTemplate": 50, "ActivityRewardIndex": 999, "activityRating": -1, "LootMatrixIndex": 285, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "Test Race"}
+{"objectTemplate": 53, "ActivityRewardIndex": 167, "activityRating": -1, "LootMatrixIndex": 598, "CurrencyIndex": 1, "ChallengeRating": 4, "description": "AG Foot Race"}
+{"objectTemplate": 54, "ActivityRewardIndex": 175, "activityRating": 61, "LootMatrixIndex": 642, "CurrencyIndex": 69, "ChallengeRating": 1, "description": "FV Racetrack 1st Place - 6 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 176, "activityRating": 62, "LootMatrixIndex": 643, "CurrencyIndex": 70, "ChallengeRating": 1, "description": "FV Racetrack 2nd Place - 6 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 177, "activityRating": 63, "LootMatrixIndex": 644, "CurrencyIndex": 71, "ChallengeRating": 1, "description": "FV Racetrack 3rd Place - 6 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 178, "activityRating": 64, "LootMatrixIndex": 645, "CurrencyIndex": 72, "ChallengeRating": 1, "description": "FV Racetrack 4th Place - 6 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 179, "activityRating": 65, "LootMatrixIndex": 646, "CurrencyIndex": 73, "ChallengeRating": 1, "description": "FV Racetrack 5th Place - 6 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 180, "activityRating": 66, "LootMatrixIndex": 647, "CurrencyIndex": 74, "ChallengeRating": 1, "description": "FV Racetrack 6th Place - 6 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 181, "activityRating": 51, "LootMatrixIndex": 642, "CurrencyIndex": 69, "ChallengeRating": 1, "description": "FV Racetrack 1st Place - 5 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 182, "activityRating": 52, "LootMatrixIndex": 643, "CurrencyIndex": 70, "ChallengeRating": 1, "description": "FV Racetrack 2nd Place - 5 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 183, "activityRating": 53, "LootMatrixIndex": 644, "CurrencyIndex": 71, "ChallengeRating": 1, "description": "FV Racetrack 3rd Place - 5 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 184, "activityRating": 54, "LootMatrixIndex": 645, "CurrencyIndex": 72, "ChallengeRating": 1, "description": "FV Racetrack 4th Place - 5 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 185, "activityRating": 55, "LootMatrixIndex": 646, "CurrencyIndex": 73, "ChallengeRating": 1, "description": "FV Racetrack 5th Place - 5 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 186, "activityRating": 41, "LootMatrixIndex": 642, "CurrencyIndex": 69, "ChallengeRating": 1, "description": "FV Racetrack 1st Place - 4 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 187, "activityRating": 42, "LootMatrixIndex": 643, "CurrencyIndex": 70, "ChallengeRating": 1, "description": "FV Racetrack 2nd Place - 4 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 188, "activityRating": 43, "LootMatrixIndex": 644, "CurrencyIndex": 71, "ChallengeRating": 1, "description": "FV Racetrack 3rd Place - 4 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 189, "activityRating": 44, "LootMatrixIndex": 645, "CurrencyIndex": 72, "ChallengeRating": 1, "description": "FV Racetrack 4th Place - 4 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 190, "activityRating": 31, "LootMatrixIndex": 648, "CurrencyIndex": 75, "ChallengeRating": 1, "description": "FV Racetrack 1st Place - 3 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 191, "activityRating": 32, "LootMatrixIndex": 649, "CurrencyIndex": 76, "ChallengeRating": 1, "description": "FV Racetrack 2nd Place - 3 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 192, "activityRating": 33, "LootMatrixIndex": 650, "CurrencyIndex": 77, "ChallengeRating": 1, "description": "FV Racetrack 3rd Place - 3 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 193, "activityRating": 21, "LootMatrixIndex": 651, "CurrencyIndex": 78, "ChallengeRating": 1, "description": "FV Racetrack 1st Place - 2 players"}
+{"objectTemplate": 54, "ActivityRewardIndex": 194, "activityRating": 22, "LootMatrixIndex": 652, "CurrencyIndex": 79, "ChallengeRating": 1, "description": "FV Racetrack 2nd Place - 2 players"}
+{"objectTemplate": 55, "ActivityRewardIndex": 71, "activityRating": 3, "LootMatrixIndex": 484, "CurrencyIndex": 31, "ChallengeRating": 1, "description": "FV Dragon 3 Player"}
+{"objectTemplate": 55, "ActivityRewardIndex": 72, "activityRating": 2, "LootMatrixIndex": 483, "CurrencyIndex": 32, "ChallengeRating": 1, "description": "FV Dragon 2 Player"}
+{"objectTemplate": 55, "ActivityRewardIndex": 73, "activityRating": 1, "LootMatrixIndex": 314, "CurrencyIndex": 33, "ChallengeRating": 1, "description": "FV Dragon 1 Player"}
+{"objectTemplate": 55, "ActivityRewardIndex": 135, "activityRating": 4, "LootMatrixIndex": 485, "CurrencyIndex": 34, "ChallengeRating": 1, "description": "FV Dragon 4 Player"}
+{"objectTemplate": 58, "ActivityRewardIndex": 234, "activityRating": 1, "LootMatrixIndex": 765, "CurrencyIndex": 126, "ChallengeRating": 6, "description": "Frakjaw 1 Player"}
+{"objectTemplate": 58, "ActivityRewardIndex": 235, "activityRating": 2, "LootMatrixIndex": 875, "CurrencyIndex": 125, "ChallengeRating": 6, "description": "Frakjaw 2 Player"}
+{"objectTemplate": 58, "ActivityRewardIndex": 236, "activityRating": 3, "LootMatrixIndex": 876, "CurrencyIndex": 124, "ChallengeRating": 6, "description": "Frakjaw 3 Player"}
+{"objectTemplate": 58, "ActivityRewardIndex": 237, "activityRating": 4, "LootMatrixIndex": 877, "CurrencyIndex": 123, "ChallengeRating": 6, "description": "Frakjaw 4 Player"}
+{"objectTemplate": 60, "ActivityRewardIndex": 206, "activityRating": 61, "LootMatrixIndex": 642, "CurrencyIndex": 69, "ChallengeRating": 1, "description": "FB Racetrack 1st Place - 6 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 207, "activityRating": 62, "LootMatrixIndex": 643, "CurrencyIndex": 70, "ChallengeRating": 1, "description": "FB Racetrack 2nd Place - 6 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 208, "activityRating": 63, "LootMatrixIndex": 644, "CurrencyIndex": 71, "ChallengeRating": 1, "description": "FB Racetrack 3rd Place - 6 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 209, "activityRating": 64, "LootMatrixIndex": 645, "CurrencyIndex": 72, "ChallengeRating": 1, "description": "FB Racetrack 4th Place - 6 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 210, "activityRating": 65, "LootMatrixIndex": 646, "CurrencyIndex": 73, "ChallengeRating": 1, "description": "FB Racetrack 5th Place - 6 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 211, "activityRating": 66, "LootMatrixIndex": 647, "CurrencyIndex": 74, "ChallengeRating": 1, "description": "FB Racetrack 6th Place - 6 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 212, "activityRating": 51, "LootMatrixIndex": 642, "CurrencyIndex": 69, "ChallengeRating": 1, "description": "FB Racetrack 1st Place - 5 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 213, "activityRating": 52, "LootMatrixIndex": 643, "CurrencyIndex": 70, "ChallengeRating": 1, "description": "FB Racetrack 2nd Place - 5 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 214, "activityRating": 53, "LootMatrixIndex": 644, "CurrencyIndex": 71, "ChallengeRating": 1, "description": "FB Racetrack 3rd Place - 5 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 215, "activityRating": 54, "LootMatrixIndex": 645, "CurrencyIndex": 72, "ChallengeRating": 1, "description": "FB Racetrack 4th Place - 5 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 216, "activityRating": 55, "LootMatrixIndex": 646, "CurrencyIndex": 73, "ChallengeRating": 1, "description": "FB Racetrack 5th Place - 5 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 217, "activityRating": 41, "LootMatrixIndex": 642, "CurrencyIndex": 69, "ChallengeRating": 1, "description": "FB Racetrack 1st Place - 4 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 218, "activityRating": 42, "LootMatrixIndex": 643, "CurrencyIndex": 70, "ChallengeRating": 1, "description": "FB Racetrack 2nd Place - 4 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 219, "activityRating": 43, "LootMatrixIndex": 644, "CurrencyIndex": 71, "ChallengeRating": 1, "description": "FB Racetrack 3rd Place - 4 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 220, "activityRating": 44, "LootMatrixIndex": 645, "CurrencyIndex": 72, "ChallengeRating": 1, "description": "FB Racetrack 4th Place - 4 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 221, "activityRating": 31, "LootMatrixIndex": 648, "CurrencyIndex": 75, "ChallengeRating": 1, "description": "FB Racetrack 1st Place - 3 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 222, "activityRating": 32, "LootMatrixIndex": 649, "CurrencyIndex": 76, "ChallengeRating": 1, "description": "FB Racetrack 2nd Place - 3 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 223, "activityRating": 33, "LootMatrixIndex": 650, "CurrencyIndex": 77, "ChallengeRating": 1, "description": "FB Racetrack 3rd Place - 3 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 224, "activityRating": 21, "LootMatrixIndex": 651, "CurrencyIndex": 78, "ChallengeRating": 1, "description": "FB Racetrack 1st Place - 2 players"}
+{"objectTemplate": 60, "ActivityRewardIndex": 225, "activityRating": 22, "LootMatrixIndex": 652, "CurrencyIndex": 79, "ChallengeRating": 1, "description": "FB Racetrack 2nd Place - 2 players"}
+{"objectTemplate": 7100, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "GF Quickbuilds - Jail Wall"}
+{"objectTemplate": 7616, "ActivityRewardIndex": 30, "activityRating": 1, "LootMatrixIndex": 297, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "PC Quickbuilds"}
+{"objectTemplate": 6209, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds - Sentinel Beacon"}
+{"objectTemplate": 7617, "ActivityRewardIndex": 30, "activityRating": 1, "LootMatrixIndex": 297, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "PC Quickbuilds"}
+{"objectTemplate": 1864, "ActivityRewardIndex": 4, "activityRating": -1, "LootMatrixIndex": 359, "CurrencyIndex": null, "ChallengeRating": 1, "description": "GF Shooting Gallery Rating 0"}
+{"objectTemplate": 1864, "ActivityRewardIndex": 5, "activityRating": 15000, "LootMatrixIndex": 624, "CurrencyIndex": 16, "ChallengeRating": 2, "description": "GF Shooting Gallery Rating 2"}
+{"objectTemplate": 1864, "ActivityRewardIndex": 7, "activityRating": 75000, "LootMatrixIndex": 362, "CurrencyIndex": 17, "ChallengeRating": 5, "description": "GF Shooting Gallery Rating 5"}
+{"objectTemplate": 1864, "ActivityRewardIndex": 8, "activityRating": 150000, "LootMatrixIndex": 363, "CurrencyIndex": 18, "ChallengeRating": 6, "description": "GF Shooting Gallery Rating 6"}
+{"objectTemplate": 1864, "ActivityRewardIndex": 21, "activityRating": 250000, "LootMatrixIndex": 364, "CurrencyIndex": 19, "ChallengeRating": 7, "description": "GF Shooting Gallery Rating 7"}
+{"objectTemplate": 1864, "ActivityRewardIndex": 22, "activityRating": 350000, "LootMatrixIndex": 365, "CurrencyIndex": 20, "ChallengeRating": 8, "description": "GF Shooting Gallery Rating 8"}
+{"objectTemplate": 1864, "ActivityRewardIndex": 23, "activityRating": 450000, "LootMatrixIndex": 366, "CurrencyIndex": 21, "ChallengeRating": 9, "description": "GF Shooting Gallery Rating 9"}
+{"objectTemplate": 1864, "ActivityRewardIndex": 99, "activityRating": 800000, "LootMatrixIndex": 367, "CurrencyIndex": 22, "ChallengeRating": 10, "description": "GF Shooting Gallery Rating 10"}
+{"objectTemplate": 1864, "ActivityRewardIndex": 195, "activityRating": 50000, "LootMatrixIndex": 360, "CurrencyIndex": 54, "ChallengeRating": 4, "description": "GF Shooting Gallery Rating 4"}
+{"objectTemplate": 1864, "ActivityRewardIndex": 196, "activityRating": 35000, "LootMatrixIndex": 625, "CurrencyIndex": 53, "ChallengeRating": 3, "description": "GF Shooting Gallery Rating 3"}
+{"objectTemplate": 1864, "ActivityRewardIndex": 197, "activityRating": 1000, "LootMatrixIndex": 359, "CurrencyIndex": 56, "ChallengeRating": 1, "description": "GF Shooting Gallery Rating 1"}
+{"objectTemplate": 13385, "ActivityRewardIndex": 202, "activityRating": 1, "LootMatrixIndex": 512, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM Dragon Invader - 1 Player"}
+{"objectTemplate": 13385, "ActivityRewardIndex": 203, "activityRating": 2, "LootMatrixIndex": 677, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM Dragon Invader - 2 Player"}
+{"objectTemplate": 13385, "ActivityRewardIndex": 204, "activityRating": 3, "LootMatrixIndex": 678, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM Dragon Invader - 3 Player"}
+{"objectTemplate": 13385, "ActivityRewardIndex": 205, "activityRating": 4, "LootMatrixIndex": 679, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM Dragon Invader - 4 Player"}
+{"objectTemplate": 13386, "ActivityRewardIndex": 198, "activityRating": 1, "LootMatrixIndex": 521, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM Dragon Named - 1 Player"}
+{"objectTemplate": 13386, "ActivityRewardIndex": 199, "activityRating": 2, "LootMatrixIndex": 680, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM Dragon Named - 2 Player"}
+{"objectTemplate": 13386, "ActivityRewardIndex": 200, "activityRating": 3, "LootMatrixIndex": 681, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM Dragon Named - 3 Player"}
+{"objectTemplate": 13386, "ActivityRewardIndex": 201, "activityRating": 4, "LootMatrixIndex": 682, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM Dragon Named - 4 Player"}
+{"objectTemplate": 9930, "ActivityRewardIndex": 63, "activityRating": -1, "LootMatrixIndex": 309, "CurrencyIndex": 80, "ChallengeRating": 1, "description": "FV Wishing Well 1"}
+{"objectTemplate": 9930, "ActivityRewardIndex": 64, "activityRating": 500, "LootMatrixIndex": 393, "CurrencyIndex": 81, "ChallengeRating": 1, "description": "FV Wishing Well 2"}
+{"objectTemplate": 9930, "ActivityRewardIndex": 65, "activityRating": 750, "LootMatrixIndex": 394, "CurrencyIndex": 82, "ChallengeRating": 1, "description": "FV Wishing Well 3"}
+{"objectTemplate": 9930, "ActivityRewardIndex": 66, "activityRating": 900, "LootMatrixIndex": 395, "CurrencyIndex": 83, "ChallengeRating": 1, "description": "FV Wishing Well 4"}
+{"objectTemplate": 9930, "ActivityRewardIndex": 67, "activityRating": 950, "LootMatrixIndex": 396, "CurrencyIndex": 84, "ChallengeRating": 1, "description": "FV Wishing Well 5"}
+{"objectTemplate": 9930, "ActivityRewardIndex": 68, "activityRating": 975, "LootMatrixIndex": 397, "CurrencyIndex": 85, "ChallengeRating": 1, "description": "FV Wishing Well 6"}
+{"objectTemplate": 9930, "ActivityRewardIndex": 69, "activityRating": 998, "LootMatrixIndex": 398, "CurrencyIndex": 86, "ChallengeRating": 1, "description": "FV Wishing Well 7"}
+{"objectTemplate": 9930, "ActivityRewardIndex": 70, "activityRating": 999, "LootMatrixIndex": 399, "CurrencyIndex": 87, "ChallengeRating": 1, "description": "FV Wishing Well 8"}
+{"objectTemplate": 14670, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Mech QB non turret"}
+{"objectTemplate": 6097, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Finish Line"}
+{"objectTemplate": 14423, "ActivityRewardIndex": 226, "activityRating": 1, "LootMatrixIndex": 753, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NJ Monastery QB Bouncers"}
+{"objectTemplate": 11227, "ActivityRewardIndex": 101, "activityRating": -1, "LootMatrixIndex": 314, "CurrencyIndex": 31, "ChallengeRating": 1, "description": "Loot Table Tester Object"}
+{"objectTemplate": 102, "ActivityRewardIndex": 72, "activityRating": -1, "LootMatrixIndex": 438, "CurrencyIndex": 12, "ChallengeRating": 1, "description": "NS Watered Flower"}
+{"objectTemplate": 103, "ActivityRewardIndex": 136, "activityRating": 1, "LootMatrixIndex": null, "CurrencyIndex": null, "ChallengeRating": 1, "description": "NT Target Dummy"}
+{"objectTemplate": 104, "ActivityRewardIndex": 168, "activityRating": -1, "LootMatrixIndex": 598, "CurrencyIndex": 1, "ChallengeRating": 4, "description": "FB Foot Race"}
+{"objectTemplate": 105, "ActivityRewardIndex": 149, "activityRating": 1, "LootMatrixIndex": 506, "CurrencyIndex": 51, "ChallengeRating": 1, "description": "Winter 2010 QB"}
+{"objectTemplate": 106, "ActivityRewardIndex": 137, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "Aura Mar Quickbuilds"}
+{"objectTemplate": 108, "ActivityRewardIndex": 169, "activityRating": -1, "LootMatrixIndex": 598, "CurrencyIndex": 1, "ChallengeRating": 4, "description": "VE Instance Foot Race"}
+{"objectTemplate": 109, "ActivityRewardIndex": 72, "activityRating": -1, "LootMatrixIndex": 438, "CurrencyIndex": 12, "ChallengeRating": 1, "description": "Winter Watered Flower"}
+{"objectTemplate": 1901, "ActivityRewardIndex": 166, "activityRating": -1, "LootMatrixIndex": 598, "CurrencyIndex": 1, "ChallengeRating": 4, "description": "NT Foot Race"}
+{"objectTemplate": 110, "ActivityRewardIndex": 170, "activityRating": 1, "LootMatrixIndex": 690, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NT Quickbuilds"}
+{"objectTemplate": 6254, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds - Sentinel Turret"}
+{"objectTemplate": 111, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds - Sentinel Beacon 1"}
+{"objectTemplate": 6511, "ActivityRewardIndex": 40, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "GF Tiki Torch Extinguish"}
+{"objectTemplate": 12271, "ActivityRewardIndex": 141, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM Sentinel bouncer"}
+{"objectTemplate": 112, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds - Sentinel Beacon 2"}
+{"objectTemplate": 8432, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds - Sentinel Turret"}
+{"objectTemplate": 12272, "ActivityRewardIndex": 142, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM Venture bouncer"}
+{"objectTemplate": 113, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds - Sentinel Beacon 3"}
+{"objectTemplate": 7281, "ActivityRewardIndex": 0, "activityRating": 1, "LootMatrixIndex": null, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "Test Spider Boss QB"}
+{"objectTemplate": 12273, "ActivityRewardIndex": 143, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM sentinel moving platform"}
+{"objectTemplate": 114, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds - Sentinel Beacon 4"}
+{"objectTemplate": 12274, "ActivityRewardIndex": 144, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM sentinel platform"}
+{"objectTemplate": 13171, "ActivityRewardIndex": 137, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "Aura Mar Quickbuilds"}
+{"objectTemplate": 12275, "ActivityRewardIndex": 145, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM venture moving platform"}
+{"objectTemplate": 7796, "ActivityRewardIndex": 134, "activityRating": -1, "LootMatrixIndex": 472, "CurrencyIndex": 31, "ChallengeRating": 1, "description": "NS Imagination Fountain"}
+{"objectTemplate": 12276, "ActivityRewardIndex": 146, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM venture platform"}
+{"objectTemplate": 118, "ActivityRewardIndex": 226, "activityRating": 1, "LootMatrixIndex": 753, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NJ Monastery QBs"}
+{"objectTemplate": 12278, "ActivityRewardIndex": 147, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM venture large platform"}
+{"objectTemplate": 119, "ActivityRewardIndex": 227, "activityRating": 1, "LootMatrixIndex": 754, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NJ Earth QBs"}
+{"objectTemplate": 12279, "ActivityRewardIndex": 148, "activityRating": 1, "LootMatrixIndex": 499, "CurrencyIndex": 52, "ChallengeRating": 1, "description": "AM sentinel large platfrom"}
+{"objectTemplate": 120, "ActivityRewardIndex": 228, "activityRating": 1, "LootMatrixIndex": 755, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NJ Lightning QBs"}
+{"objectTemplate": 12408, "ActivityRewardIndex": 152, "activityRating": 1, "LootMatrixIndex": 690, "CurrencyIndex": 4, "ChallengeRating": 1, "description": "NT Imagination Collector 1"}
+{"objectTemplate": 6648, "ActivityRewardIndex": 27, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NS Fountain Quickbuild"}
+{"objectTemplate": 121, "ActivityRewardIndex": 229, "activityRating": 1, "LootMatrixIndex": 756, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NJ Ice QBs"}
+{"objectTemplate": 12409, "ActivityRewardIndex": 153, "activityRating": 1, "LootMatrixIndex": 690, "CurrencyIndex": 4, "ChallengeRating": 1, "description": "NT Imagination Collector 2"}
+{"objectTemplate": 122, "ActivityRewardIndex": 230, "activityRating": 1, "LootMatrixIndex": 757, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "NJ Fire QBs"}
+{"objectTemplate": 12410, "ActivityRewardIndex": 154, "activityRating": 1, "LootMatrixIndex": 690, "CurrencyIndex": 4, "ChallengeRating": 1, "description": "NT Imagination Collector 3"}
+{"objectTemplate": 123, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds"}
+{"objectTemplate": 12411, "ActivityRewardIndex": 151, "activityRating": 1, "LootMatrixIndex": 690, "CurrencyIndex": 4, "ChallengeRating": 1, "description": "NT Pipe Rebuild 1"}
+{"objectTemplate": 124, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds"}
+{"objectTemplate": 12412, "ActivityRewardIndex": 155, "activityRating": 1, "LootMatrixIndex": 690, "CurrencyIndex": 4, "ChallengeRating": 1, "description": "NT Pipe Rebuild 2"}
+{"objectTemplate": 12413, "ActivityRewardIndex": 156, "activityRating": 1, "LootMatrixIndex": 690, "CurrencyIndex": 4, "ChallengeRating": 1, "description": "NT Pipe Rebuild 3"}
+{"objectTemplate": 125, "ActivityRewardIndex": 26, "activityRating": 1, "LootMatrixIndex": 196, "CurrencyIndex": 1, "ChallengeRating": 1, "description": "AG Quickbuilds"}
+{"objectTemplate": 12414, "ActivityRewardIndex": 157, "activityRating": 1, "LootMatrixIndex": 690, "CurrencyIndex": 4, "ChallengeRating": 1, "description": "NT Pipe Rebuild 4"}
+{"objectTemplate": 126, "ActivityRewardIndex": 202, "activityRating": -1, "LootMatrixIndex": 359, "CurrencyIndex": null, "ChallengeRating": 1, "description": "AG Shooting Gallery Rating 0"}
+{"objectTemplate": 126, "ActivityRewardIndex": 203, "activityRating": 1000, "LootMatrixIndex": 359, "CurrencyIndex": 56, "ChallengeRating": 1, "description": "AG Shooting Gallery Rating 1"}
+{"objectTemplate": 126, "ActivityRewardIndex": 204, "activityRating": 15000, "LootMatrixIndex": 624, "CurrencyIndex": 16, "ChallengeRating": 2, "description": "AG Shooting Gallery Rating 2"}
+{"objectTemplate": 126, "ActivityRewardIndex": 205, "activityRating": 35000, "LootMatrixIndex": 625, "CurrencyIndex": 53, "ChallengeRating": 3, "description": "AG Shooting Gallery Rating 3"}
+{"objectTemplate": 126, "ActivityRewardIndex": 206, "activityRating": 50000, "LootMatrixIndex": 360, "CurrencyIndex": 54, "ChallengeRating": 4, "description": "AG Shooting Gallery Rating 4"}
+{"objectTemplate": 126, "ActivityRewardIndex": 207, "activityRating": 75000, "LootMatrixIndex": 362, "CurrencyIndex": 17, "ChallengeRating": 5, "description": "AG Shooting Gallery Rating 5"}
+{"objectTemplate": 126, "ActivityRewardIndex": 208, "activityRating": 150000, "LootMatrixIndex": 363, "CurrencyIndex": 18, "ChallengeRating": 6, "description": "AG Shooting Gallery Rating 6"}
+{"objectTemplate": 126, "ActivityRewardIndex": 209, "activityRating": 250000, "LootMatrixIndex": 364, "CurrencyIndex": 19, "ChallengeRating": 7, "description": "AG Shooting Gallery Rating 7"}
+{"objectTemplate": 126, "ActivityRewardIndex": 210, "activityRating": 350000, "LootMatrixIndex": 365, "CurrencyIndex": 20, "ChallengeRating": 8, "description": "AG Shooting Gallery Rating 8"}
+{"objectTemplate": 126, "ActivityRewardIndex": 211, "activityRating": 450000, "LootMatrixIndex": 366, "CurrencyIndex": 21, "ChallengeRating": 9, "description": "AG Shooting Gallery Rating 9"}
+{"objectTemplate": 126, "ActivityRewardIndex": 212, "activityRating": 800000, "LootMatrixIndex": 367, "CurrencyIndex": 22, "ChallengeRating": 10, "description": "AG Shooting Gallery Rating 10"}
+{"objectTemplate": 12415, "ActivityRewardIndex": 158, "activityRating": 1, "LootMatrixIndex": 690, "CurrencyIndex": 4, "ChallengeRating": 1, "description": "NT Pipe Rebuild 5"}

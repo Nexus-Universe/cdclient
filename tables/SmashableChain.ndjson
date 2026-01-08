@@ -1,0 +1,4 @@
+{"chainIndex": 1, "chainLevel": 1, "lootMatrixID": 48, "rarityTableIndex": 4, "currencyIndex": 1, "currencyLevel": 1, "smashCount": 4, "timeLimit": 30, "chainStepID": 1}
+{"chainIndex": 1, "chainLevel": 2, "lootMatrixID": 47, "rarityTableIndex": 4, "currencyIndex": 1, "currencyLevel": 1, "smashCount": 5, "timeLimit": 30, "chainStepID": 2}
+{"chainIndex": 1, "chainLevel": 3, "lootMatrixID": 46, "rarityTableIndex": 4, "currencyIndex": 1, "currencyLevel": 1, "smashCount": 6, "timeLimit": 30, "chainStepID": 3}
+{"chainIndex": 1, "chainLevel": 4, "lootMatrixID": 45, "rarityTableIndex": 4, "currencyIndex": 1, "currencyLevel": 1, "smashCount": 7, "timeLimit": 30, "chainStepID": 4}

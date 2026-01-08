@@ -1,0 +1,630 @@
+{"animationGroupID": 0, "description": "Minifig", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3072, "description": "Extra Backpack Space Celebrate", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1, "description": "Impatient Mission Giver 1", "groupType": "MissionGiver"}
+{"animationGroupID": 3073, "description": "Extra Life Points", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2, "description": "Impatient Mission Giver 2", "groupType": "MissionGiver"}
+{"animationGroupID": 3074, "description": "Extra Imagination Points", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3, "description": "Anxious Mission Giver 1", "groupType": "MissionGiver"}
+{"animationGroupID": 3075, "description": "frozen missile", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3076, "description": "Repair droid", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 4, "description": "Anxious Mission Giver 2", "groupType": "MissionGiver"}
+{"animationGroupID": 3077, "description": "Crux Prime Camera 1", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 5, "description": "Kind Mission Giver 1", "groupType": "MissionGiver"}
+{"animationGroupID": 3078, "description": "Stinky Fish", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 6, "description": "Kind Mission Giver 2", "groupType": "MissionGiver"}
+{"animationGroupID": 3079, "description": "Nexus Tower Venture Room Hologram", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 7, "description": "Angry Mission Giver 1", "groupType": "MissionGiver"}
+{"animationGroupID": 3080, "description": "Sunflower Plant", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 8, "description": "Angry Mission Giver 2", "groupType": "MissionGiver"}
+{"animationGroupID": 3081, "description": "Fig-Eating Plant", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 9, "description": "Scared Mission Giver 1", "groupType": "MissionGiver"}
+{"animationGroupID": 10, "description": "Scared Mission Giver 2", "groupType": "MissionGiver"}
+{"animationGroupID": 3082, "description": "Nexus Hologram Backdrop", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 11, "description": "Staff Holding Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3083, "description": "Nexus Hologram Warnings", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 12, "description": "Bricksmith Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3084, "description": "Nexus Hologram Additive", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 13, "description": "Ninja Sensei", "groupType": "MissionGiver"}
+{"animationGroupID": 3085, "description": "Nexus Tower Breadcrumb", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 14, "description": "Spaceman Bob", "groupType": "MissionGiver"}
+{"animationGroupID": 3086, "description": "Anchors Away Anchor", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 15, "description": "Reporter Mission Giver - YRK", "groupType": "MissionGiver"}
+{"animationGroupID": 3087, "description": "Scanner Animation", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 16, "description": "Old Man Sherland", "groupType": "MissionGiver"}
+{"animationGroupID": 3088, "description": "Balloon Animals", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 17, "description": "Gun Kind Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3089, "description": "Buccaneer Ship", "groupType": "NPCCreateinvalid"}
+{"animationGroupID": 18, "description": "Gun Anxious Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3090, "description": "Spider Baby Spawn", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 19, "description": "Racing Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3091, "description": "Valiant Spider Baby Spawn", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1044, "description": "Old Freak Darkling", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 20, "description": "Numb Chuck Ghost", "groupType": "MissionGiver"}
+{"animationGroupID": 3092, "description": "Meet Exeter", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 21, "description": "Wizard", "groupType": "MissionGiver"}
+{"animationGroupID": 3093, "description": "Meet Exeter Camera", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 22, "description": "Basic Minifig", "groupType": "MissionGiver"}
+{"animationGroupID": 3094, "description": "Samurai Dummy", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 23, "description": "Pet Rancher", "groupType": "MissionGiver"}
+{"animationGroupID": 3095, "description": "Inventor Broombot", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 24, "description": "Sgt. Maxx", "groupType": "MissionGiver"}
+{"animationGroupID": 3096, "description": "Saber Cat Spawn", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 25, "description": "Numbchuck the Sleepy Ninja", "groupType": "MissionGiver"}
+{"animationGroupID": 3097, "description": "Shrake Spawn", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 26, "description": "Beastie Blocks Singer", "groupType": "MissionGiver"}
+{"animationGroupID": 3098, "description": "Grand Piano Fall", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 27, "description": "Fireman Concert", "groupType": "MissionGiver"}
+{"animationGroupID": 3099, "description": "Dropship Leaving Crux Prime", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 28, "description": "Dwarf Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3100, "description": "Camera for Dropship Leaving Crux Prime", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 29, "description": "Epsilon Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3101, "description": "Dropship leaving Nexus Tower", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 30, "description": "Beck Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3102, "description": "Camera for Dropship leaving Nexus Tower", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 31, "description": "Wisp Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3103, "description": "Waypoint Arrows", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3104, "description": "AG Property Boundary", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 32, "description": "Skylane Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3105, "description": "Test Racing Crystal", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 33, "description": "Rusty Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3106, "description": "Ninjago Earth Whirlwind", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 34, "description": "Spear Kind Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3107, "description": "Ninjago Lightning Whirlwind", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 35, "description": "Spear Nervous Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3108, "description": "Catapult", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 36, "description": "Jailed Ninja Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3109, "description": "Ninjago Ice Whirlwind", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 37, "description": "Coalessa Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3110, "description": "Nexus Force Celebration", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 38, "description": "New Numbchuck Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 39, "description": "Skylane AG Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 40, "description": "Foxtrot Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3113, "description": "Chain Whip", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 41, "description": "Epsilon Jetpack Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3114, "description": "Brick Fury Hologram", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 42, "description": "Mardolf Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3115, "description": "Pet Spawn", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 43, "description": "Nude Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 44, "description": "Johnny Thunder", "groupType": "MissionGiver"}
+{"animationGroupID": 45, "description": "Nexus Recruiter", "groupType": "MissionGiver"}
+{"animationGroupID": 46, "description": "Pirate in a Barrel Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 47, "description": "Sword Wielder", "groupType": "MissionGiver"}
+{"animationGroupID": 3120, "description": "NGO Double Katana Spinner", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 48, "description": "Ninja Master", "groupType": "MissionGiver"}
+{"animationGroupID": 3121, "description": "NGO Katana Spinner", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 49, "description": "Time Traveller", "groupType": "MissionGiver"}
+{"animationGroupID": 3122, "description": "NGO Axe Spinner", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 50, "description": "Friendly Vendor 1", "groupType": "Vendor"}
+{"animationGroupID": 3123, "description": "NGO Ranged Spinner", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 51, "description": "Friendly Vendor 2", "groupType": "Vendor"}
+{"animationGroupID": 3124, "description": "NGO Switch Spinner", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 52, "description": "Anxious Vendor 1", "groupType": "Vendor"}
+{"animationGroupID": 3125, "description": "NGO Low Cutlass Spinner", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 53, "description": "Anxious Vendor 2", "groupType": "Vendor"}
+{"animationGroupID": 3126, "description": "NGO Spawn Spinner", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 54, "description": "Calm Vendor 1", "groupType": "Vendor"}
+{"animationGroupID": 3127, "description": "NGO Platform Spinner", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 55, "description": "Calm Vendor 2", "groupType": "Vendor"}
+{"animationGroupID": 3128, "description": "NGO Spinner 8", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 56, "description": "Angry Vendor 1", "groupType": "Vendor"}
+{"animationGroupID": 3129, "description": "NGO Spinner 9", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 57, "description": "Angry Vendor 2", "groupType": "Vendor"}
+{"animationGroupID": 3130, "description": "Ninjago Fire Whirlwind", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 58, "description": "Scared Vendor 1", "groupType": "Vendor"}
+{"animationGroupID": 3131, "description": "Spider Baby - spider cave", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 59, "description": "Scared Vendor 2", "groupType": "Vendor"}
+{"animationGroupID": 3132, "description": "Spawned Maelstrom Extracticator", "groupType": "Ambient"}
+{"animationGroupID": 60, "description": "Fighting Vendor", "groupType": "Vendor"}
+{"animationGroupID": 3133, "description": "Whip 2 - chain", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 61, "description": "Sneaky Vendor", "groupType": "Vendor"}
+{"animationGroupID": 3134, "description": "Ninja Hound", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 62, "description": "Generic Vendor", "groupType": "Vendor"}
+{"animationGroupID": 3135, "description": "Stinky Fish Mission Sharks", "groupType": "Ambient"}
+{"animationGroupID": 63, "description": "Tarbucks Vendor", "groupType": "Vendor"}
+{"animationGroupID": 3136, "description": "NGO Crate Dragon", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 64, "description": "Realtor Vendor", "groupType": "Vendor"}
+{"animationGroupID": 3137, "description": "NGO Siege Tower", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 65, "description": "Dwarf Vendor", "groupType": "Vendor"}
+{"animationGroupID": 3138, "description": "NGO Catapult", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 66, "description": "Vendor With Gun", "groupType": "Vendor"}
+{"animationGroupID": 3139, "description": "NGO Button Red", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 67, "description": "AM Travelling Vendor", "groupType": "Vendor"}
+{"animationGroupID": 3140, "description": "NGO Button Purple", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 68, "description": "Vanda Darkflame", "groupType": "MissionGiver"}
+{"animationGroupID": 3141, "description": "NGO Prisoner Cage", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 69, "description": "Hale Storm", "groupType": "MissionGiver"}
+{"animationGroupID": 3142, "description": "NGO Monestary Flags", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 70, "description": "Duke Exeter", "groupType": "MissionGiver"}
+{"animationGroupID": 3143, "description": "NGO Bone Wolf", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 71, "description": "Spinjitzu Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 3144, "description": "AG Pigeon", "groupType": null}
+{"animationGroupID": 72, "description": "Cringe Lo", "groupType": "MissionGiver"}
+{"animationGroupID": 3145, "description": "NGO Nunchuks of Lightning Right", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3146, "description": "NGO Bone Wolf Spawn", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3147, "description": "Lord Garmadon Cinematic", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3148, "description": "Lord Garmadon Camera", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3149, "description": "NGO Nunchuks of Lightning Left", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3150, "description": "NGO Ice Crystal", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3151, "description": "Ninjago Earth Whirlwind MeshFX", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3152, "description": "Ninjago Lightning Whirlwind MeshFX", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3153, "description": "Ninjago Ice Whirlwind MeshFX", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3154, "description": "Ninjago Fire Whirlwind MeshFX", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3155, "description": "Ninjago Golden Ark", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3156, "description": "Ninjago Shaking Floor Tile", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3157, "description": "Ninjago Generic Whirlwind", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3158, "description": "Ninjago Cute Whirlwind", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3159, "description": "Ninjago Fun Whirlwind", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3160, "description": "Ninjago Meow Whirlwind", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3161, "description": "Weather Object", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3162, "description": "Bone Vulture", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 93, "description": "Astronaut Picnicker", "groupType": "Ambient"}
+{"animationGroupID": 1118, "description": "Rock Crystal", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 94, "description": "Cowboy Picnicker", "groupType": "Ambient"}
+{"animationGroupID": 95, "description": "Pirate Swinger", "groupType": "Ambient"}
+{"animationGroupID": 96, "description": "Seagull Cinematic", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 97, "description": "Seagull", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 98, "description": "Frisbee", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 99, "description": "Brick Fury - FV", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 100, "description": "Ninja Student", "groupType": "Ambient"}
+{"animationGroupID": 101, "description": "FV Ninja Guard", "groupType": "Ambient"}
+{"animationGroupID": 108, "description": "Hazmat Guy", "groupType": "Ambient"}
+{"animationGroupID": 109, "description": "Dr. Overbuild", "groupType": "MissionGiver"}
+{"animationGroupID": 120, "description": "Cannon Pirate Helper", "groupType": "Ambient"}
+{"animationGroupID": 121, "description": "Cannon Pirate Dangler", "groupType": "Ambient"}
+{"animationGroupID": 122, "description": "Cannon Pirate Deckhand", "groupType": "Ambient"}
+{"animationGroupID": 131, "description": "YouReeka Wandering M 1", "groupType": "Ambient"}
+{"animationGroupID": 132, "description": "YouReeka Wandering M 2", "groupType": "Ambient"}
+{"animationGroupID": 133, "description": "YouReeka Wandering M 3", "groupType": "Ambient"}
+{"animationGroupID": 134, "description": "YouReeka Wandering F 1", "groupType": "Ambient"}
+{"animationGroupID": 135, "description": "YouReeka Wandering F 2", "groupType": "Ambient"}
+{"animationGroupID": 136, "description": "Nimbus Wizard", "groupType": "Ambient"}
+{"animationGroupID": 137, "description": "Nimbus Astronaut", "groupType": "Ambient"}
+{"animationGroupID": 141, "description": "Pinball Minifig", "groupType": "Ambient"}
+{"animationGroupID": 142, "description": "Crowd NPC 1 Stand Real", "groupType": "Ambient"}
+{"animationGroupID": 143, "description": "Crowd NPC 2 Stand Real", "groupType": "Ambient"}
+{"animationGroupID": 144, "description": "Crowd NPC 3 Stand Real", "groupType": "Ambient"}
+{"animationGroupID": 145, "description": "Crowd NPC 4 Sit Real", "groupType": "Ambient"}
+{"animationGroupID": 146, "description": "Crowd NPC 5 Sit Real", "groupType": "Ambient"}
+{"animationGroupID": 154, "description": "Crowd NPC 1 Stand", "groupType": "Ambient"}
+{"animationGroupID": 155, "description": "Crowd NPC 2 Stand", "groupType": "Ambient"}
+{"animationGroupID": 156, "description": "Crowd NPC 3 Stand", "groupType": "Ambient"}
+{"animationGroupID": 157, "description": "Crowd NPC 4 Sit", "groupType": "Ambient"}
+{"animationGroupID": 158, "description": "Crowd NPC 5 Sit", "groupType": "Ambient"}
+{"animationGroupID": 159, "description": "Lups Bot", "groupType": "Ambient"}
+{"animationGroupID": 160, "description": "Troll Test Boss", "groupType": "Ambient"}
+{"animationGroupID": 161, "description": "Concert Goer MG", "groupType": "MissionGiver"}
+{"animationGroupID": 167, "description": "Adventurer Whip Level 1", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 168, "description": "Adventurer Whip Level 2", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 169, "description": "Adventurer Whip Level 3", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 170, "description": "Owl Valiant Weapon", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 201, "description": "Juggler 01", "groupType": "Ambient"}
+{"animationGroupID": 202, "description": "Juggler 02", "groupType": "Ambient"}
+{"animationGroupID": 203, "description": "Mime", "groupType": "Ambient"}
+{"animationGroupID": 204, "description": "Nothing", "groupType": "Ambient"}
+{"animationGroupID": 205, "description": "Vanguard Defender", "groupType": "Ambient"}
+{"animationGroupID": 206, "description": "Urinators", "groupType": "Ambient"}
+{"animationGroupID": 207, "description": "Sleep Pirate", "groupType": "Ambient"}
+{"animationGroupID": 208, "description": "Prisoner", "groupType": "Ambient"}
+{"animationGroupID": 209, "description": "Beastie Blocks Left", "groupType": "Ambient"}
+{"animationGroupID": 210, "description": "Beastie Blocks Right", "groupType": "Ambient"}
+{"animationGroupID": 211, "description": "PR - Generic Male", "groupType": "Ambient"}
+{"animationGroupID": 212, "description": "Clipboard and Pen User", "groupType": "Ambient"}
+{"animationGroupID": 213, "description": "Pirate Picnicker", "groupType": "Ambient"}
+{"animationGroupID": 214, "description": "Ninja Picnicker", "groupType": "Ambient"}
+{"animationGroupID": 215, "description": "Beastie Block Ambients", "groupType": "Ambient"}
+{"animationGroupID": 216, "description": "Welder Obstacle Course", "groupType": "Ambient"}
+{"animationGroupID": 217, "description": "Jackhammer Obstacle Course", "groupType": "Ambient"}
+{"animationGroupID": 218, "description": "Sleeping Knight", "groupType": "Ambient"}
+{"animationGroupID": 219, "description": "Welder Minifig", "groupType": "Ambient"}
+{"animationGroupID": 220, "description": "Jackhammer Minifig", "groupType": "Ambient"}
+{"animationGroupID": 221, "description": "AG Kipper Duel Sentinel NPC", "groupType": "Ambient"}
+{"animationGroupID": 222, "description": "AG Kipper Duel Paradox NPC", "groupType": "Ambient"}
+{"animationGroupID": 223, "description": "AG Kipper Spectator Assembly NPC", "groupType": "Ambient"}
+{"animationGroupID": 224, "description": "Racefans", "groupType": "Ambient"}
+{"animationGroupID": 225, "description": "Cameraman", "groupType": "Ambient"}
+{"animationGroupID": 226, "description": "Flagger", "groupType": "Ambient"}
+{"animationGroupID": 227, "description": "Assembly hover - Not Used Currently", "groupType": "Ambient"}
+{"animationGroupID": 228, "description": "Venture Ship Greeter", "groupType": "Ambient"}
+{"animationGroupID": 229, "description": "Ben Aaar", "groupType": "Enemy"}
+{"animationGroupID": 1254, "description": "Transparent Minifig", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 230, "description": "Wall Guard", "groupType": "Ambient"}
+{"animationGroupID": 231, "description": "Brawler", "groupType": "Ambient"}
+{"animationGroupID": 232, "description": "Pantomime Bunny Front", "groupType": "Ambient"}
+{"animationGroupID": 233, "description": "Pantomime Bunny Back", "groupType": "Ambient"}
+{"animationGroupID": 234, "description": "Wall Soldier", "groupType": "Ambient"}
+{"animationGroupID": 235, "description": "Scared Idler", "groupType": "Ambient"}
+{"animationGroupID": 1260, "description": "Darkling Generator", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 236, "description": "Ninja Sensei Vign", "groupType": "Ambient"}
+{"animationGroupID": 237, "description": "Foreman", "groupType": "Ambient"}
+{"animationGroupID": 238, "description": "Dwarf Ambient", "groupType": "Ambient"}
+{"animationGroupID": 239, "description": "Crocodile", "groupType": "Ambient"}
+{"animationGroupID": 240, "description": "Samurai Bow Level One", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 241, "description": "Samurai Bow Level Two", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 242, "description": "Bloodraven", "groupType": "Ambient"}
+{"animationGroupID": 243, "description": "Dark Ronin", "groupType": "Enemy"}
+{"animationGroupID": 244, "description": "LUP station window washer", "groupType": "Ambient"}
+{"animationGroupID": 245, "description": "Pirate Lookout Idles", "groupType": "Ambient"}
+{"animationGroupID": 246, "description": "Pirate Standing Talks", "groupType": "Ambient"}
+{"animationGroupID": 247, "description": "Male Pirate Welcomes", "groupType": "Ambient"}
+{"animationGroupID": 248, "description": "Female Pirate Welcomes", "groupType": "Ambient"}
+{"animationGroupID": 249, "description": "Pirate Talker Idles", "groupType": "Ambient"}
+{"animationGroupID": 250, "description": "Sitting Pirate Idles", "groupType": "Ambient"}
+{"animationGroupID": 251, "description": "LUP Jailed NPC", "groupType": "Ambient"}
+{"animationGroupID": 252, "description": "Dark Ronin Spawn", "groupType": "Enemy"}
+{"animationGroupID": 253, "description": "CP Dark Ronin Spawn", "groupType": "Enemy"}
+{"animationGroupID": 254, "description": "NT Combat Dummy", "groupType": "Enemy"}
+{"animationGroupID": 255, "description": "Underhand", "groupType": "Enemy"}
+{"animationGroupID": 1458, "description": "Frontend Gorilla Pieces", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1459, "description": "Frontend Cannon Launcher", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1460, "description": "Frontend Cannon Pusher", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1461, "description": "Frontend Dragon", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1462, "description": "Frontend Red Racecar", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1463, "description": "Frontend Red Racer", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 5559, "description": "Test Whip idle", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1464, "description": "Frontend Yellow Racecar", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1465, "description": "Frontend Knight", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1466, "description": "Frontend Darkling", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1467, "description": "Frontend Yellow Racer", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1468, "description": "Frontend Ape", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1469, "description": "Frontend Cannon", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1470, "description": "Obelisk", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1471, "description": "Gargoyle Smashable", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1487, "description": "Frontend_Legs", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 500, "description": "Evil Pirate", "groupType": "Enemy"}
+{"animationGroupID": 501, "description": "Pirate", "groupType": "Enemy"}
+{"animationGroupID": 1526, "description": "Test Tree 01", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 502, "description": "Ninja with Anything", "groupType": "Enemy"}
+{"animationGroupID": 503, "description": "Ninja with Sword", "groupType": "Enemy"}
+{"animationGroupID": 504, "description": "Unarmed Ninja", "groupType": "Enemy"}
+{"animationGroupID": 1529, "description": "Test Tree 02", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 505, "description": "Sword Ninja", "groupType": "Enemy"}
+{"animationGroupID": 506, "description": "Sword Pirate", "groupType": "Enemy"}
+{"animationGroupID": 507, "description": "Sword Attacker", "groupType": "Enemy"}
+{"animationGroupID": 508, "description": "Rifle Attacker", "groupType": "Enemy"}
+{"animationGroupID": 509, "description": "Pistol Attacker", "groupType": "Enemy"}
+{"animationGroupID": 1534, "description": "Rebuild Sections", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 510, "description": "Spear Attacker", "groupType": "Enemy"}
+{"animationGroupID": 511, "description": "Hammer Attacker", "groupType": "Enemy"}
+{"animationGroupID": 512, "description": "Bow Attacker", "groupType": "Enemy"}
+{"animationGroupID": 513, "description": "Strombie", "groupType": "Enemy"}
+{"animationGroupID": 514, "description": "Spider Boss", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 515, "description": "Skeleton", "groupType": "Enemy"}
+{"animationGroupID": 516, "description": "Medusa", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 517, "description": "OLD Darkling Admiral", "groupType": "Enemy"}
+{"animationGroupID": 518, "description": "Starfish", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 519, "description": "Snake", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 520, "description": "Owl", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 521, "description": "Bat", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 522, "description": "Crab", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 523, "description": "Darkling Pirate", "groupType": "Enemy"}
+{"animationGroupID": 524, "description": "Clamshell", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 525, "description": "FV Maelstrom Dragon", "groupType": "Enemy"}
+{"animationGroupID": 526, "description": "Maelstrom Cavalry", "groupType": "Enemy"}
+{"animationGroupID": 1551, "description": "Bee", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 527, "description": "Boss Burno Large3", "groupType": "Enemy"}
+{"animationGroupID": 528, "description": "Survival Strombie class2", "groupType": "Enemy"}
+{"animationGroupID": 529, "description": "Starfish Blue", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 530, "description": "Starfish Pink", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 531, "description": "Test Baddy Base", "groupType": "Enemy"}
+{"animationGroupID": 532, "description": "Spider Queen Race Track", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 533, "description": "Darkling Admiral Race Track", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 534, "description": "Skeleton Basic (AM)", "groupType": "Enemy"}
+{"animationGroupID": 535, "description": "Strombie Spawn 1", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 536, "description": "Strombie Spawn 2", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 537, "description": "Skeleton Heavy (AM)", "groupType": "Enemy"}
+{"animationGroupID": 538, "description": "Skeleton Special (AM)", "groupType": "Enemy"}
+{"animationGroupID": 539, "description": "Survival Strombie class3", "groupType": "Enemy"}
+{"animationGroupID": 540, "description": "Skeleton Special Engine (NGO)", "groupType": "Enemy"}
+{"animationGroupID": 541, "description": "Spider Property Boss", "groupType": "Enemy"}
+{"animationGroupID": 542, "description": "Skeleton Heavy (NGO)", "groupType": "Enemy"}
+{"animationGroupID": 543, "description": "Skeleton Basic (NGO)", "groupType": "Enemy"}
+{"animationGroupID": 544, "description": "Skeleton Special Crossbow (NGO)", "groupType": "Enemy"}
+{"animationGroupID": 545, "description": "Ninjago Beetle", "groupType": "Enemy"}
+{"animationGroupID": 546, "description": "Ninjago Armored Beetle", "groupType": "Enemy"}
+{"animationGroupID": 1650, "description": "Hyper Darkling", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1672, "description": "Grumpy Darkling", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1673, "description": "Freak Darkling", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1675, "description": "Monkey", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1700, "description": "Hopping Pet Quadrapeds", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1701, "description": "Heavy Pet Quadrapeds", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1739, "description": "Outhouse", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1761, "description": "Glowbug", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1770, "description": "Red Parrot", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1771, "description": "Nimbus Cam-Bot", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1773, "description": "Nimbus Burno", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1774, "description": "Gnarled Snail", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1775, "description": "AG Friendly Felix", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1776, "description": "Treasure Chest", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1777, "description": "Rebuild_activator", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1778, "description": "Perched Parrot", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1779, "description": "Pirate Lantern Sway", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1780, "description": "Ninja Detector GF", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1781, "description": "Ninja Detector Static", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1782, "description": "Ninja Detector Static 02", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1783, "description": "Ninja Detector Static 03", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1789, "description": "Boombox", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1790, "description": "Walking Lego Yellow", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1791, "description": "Walking Lego Red", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1792, "description": "Big Door", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1793, "description": "Activity Pet Quadrapeds", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1794, "description": "Inventor Building Bars", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1795, "description": "Hazmat Van", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1796, "description": "Baby Skunk", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1797, "description": "YRK - Skunk", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1798, "description": "NP - Corrupted Robotnist", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1799, "description": "Scene 3 Felix", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1800, "description": "Pet Treasure Chest", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1802, "description": "YRK - Flower", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1803, "description": "YRK - Fountain", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1804, "description": "YRK - SG skunk", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1806, "description": "NP - Flying Burno", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1807, "description": "Hazmat Elite", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1808, "description": "Momma Skunk", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1809, "description": "Lamp", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1810, "description": "YRK - Ballon NPC", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1811, "description": "Inventor's Building", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1812, "description": "YRK - Pet Rancher", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1813, "description": "Rocket Skunk", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1814, "description": "Switch Pusher", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1815, "description": "Bubble Blower Statue", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1816, "description": "Cameraman", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1817, "description": "Boommike Guy", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1818, "description": "Monorail with Track", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1819, "description": "Hazmat Firepole", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1820, "description": "Inventors Balloon", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1821, "description": "Pegleg Mission Giver", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1822, "description": "Test-Link", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1823, "description": "Test-Skin", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1824, "description": "Raptor", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1825, "description": "Tai Chi Bricks", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1826, "description": "Pirate Listening Device", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1827, "description": "Cannon", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1828, "description": "Perched Crow", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1829, "description": "Flying Crow", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1830, "description": "Mech Pirate", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1831, "description": "Robotinist", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1832, "description": "Pirate Cannon", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1833, "description": "Boss Burno", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1834, "description": "Cat", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1835, "description": "Dog", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1836, "description": "Sheep", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1837, "description": "Alligator", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1838, "description": "Cannon Parrot", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1839, "description": "Cannon Plunger", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1840, "description": "Cannonballs", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1841, "description": "Construction Troll", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1842, "description": "Construction Dwarf", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1843, "description": "Coin", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1844, "description": "Rat", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1845, "description": "Ant", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1846, "description": "Broombot", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1847, "description": "Clipper Bot", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1848, "description": "Maude", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1850, "description": "Cameraman", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1851, "description": "Boom Mic", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1852, "description": "Hazmat Window Washer", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1853, "description": "Off Button", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1854, "description": "On Button", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1855, "description": "Trampolines", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1856, "description": "Piano Keys", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1857, "description": "Brick-A-Mole", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1858, "description": "Flying Bricks", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1859, "description": "Yeti", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1860, "description": "Water Cannon", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1861, "description": "PERFORMANCE", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1862, "description": "AG Rockets", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1863, "description": "Boomerang - Cinematic", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1864, "description": "Pelican - Cinematic", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1865, "description": "Rebuild Helper", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1866, "description": "SG Minigun", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1867, "description": "Wild Pants", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1870, "description": "Monkey Picnicker", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1871, "description": "Bob's Piece", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1872, "description": "Bob's Animated Screen", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1873, "description": "Rat Ambient", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1874, "description": "Scorpion Ambient", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1875, "description": "AG Projector Cam Bot", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1905, "description": "Bow", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1906, "description": "Special Pet", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1907, "description": "Hobo", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1908, "description": "Cannon Ball Run Path", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1909, "description": "Rocket World", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1910, "description": "Rocket Truck", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1911, "description": "Rocket Controller", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1912, "description": "Horse Mounts", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1913, "description": "EFFECTS carver", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1914, "description": "Ship Wheel", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1915, "description": "Rocket FX", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1916, "description": "Racecar", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1917, "description": "Battlewalker Mount", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1918, "description": "Strombie Mount", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1922, "description": "New Button", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1924, "description": "Testing Stars", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1927, "description": "Statue Monument FX 01", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1928, "description": "Statue Monument FX 02", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1929, "description": "Statue Monument FX 03", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1937, "description": "Big Shark Death", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1938, "description": "Test Effect", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1939, "description": "Statue Monument FX 04", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1940, "description": "Robot Picnicker", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1941, "description": "Concert DJ", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1942, "description": "Test GP Ladder", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1943, "description": "Test GP Chain", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1944, "description": "Test GP Level", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1945, "description": "Ship FX 1 - Electric", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1946, "description": "Shark Death Fins", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1947, "description": "Minifig Electric Death", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1948, "description": "AG Fan", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1949, "description": "Ship FX 2 - Launchpad", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1950, "description": "AG Monument Finish Line", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1951, "description": "AG Paradox Mech", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1952, "description": "Spider Baby", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1953, "description": "Caged Spider Baby", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1954, "description": "Statue Monument Fan Wire FX 01", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1955, "description": "Statue Monument Fan Wire FX 02", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1956, "description": "Statue Monument Fan Wire FX 03", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1957, "description": "SG - Kraken", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1958, "description": "Dog Enemy", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1959, "description": "PiCo Dog", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1960, "description": "PiCo Rooster", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1961, "description": "CS Rocket Temp", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1962, "description": "test animation 001", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1963, "description": "Robot Citizen", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1964, "description": "Gnarled Torch", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1965, "description": "Anim Exhibit Test", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1966, "description": "Build_Activator", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1967, "description": "Build_Border", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1968, "description": "Lightning Object 01", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1969, "description": "Darkling Ape", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1970, "description": "Gun Monkey", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1972, "description": "PiCo Ninja", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1973, "description": "Ambient Frog", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1974, "description": "Crows Nest", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1975, "description": "Jail Cage", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1976, "description": "Ambient Rat", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3000, "description": "Pet Movement - Standard - Valiant", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1977, "description": "Siren", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3001, "description": "Pet Movement - Standard - Smart", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1978, "description": "Darkling Admiral", "groupType": "Enemy"}
+{"animationGroupID": 3002, "description": "Pet Movement - Standard - Cool", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1979, "description": "Cannon Shark", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3003, "description": "Pet Movement - Lumbering - Valiant", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1980, "description": "GF FX beach wave crash", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3004, "description": "Pet Movement - Lumbering - Smart", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1981, "description": "Ambient Spider", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3005, "description": "Pet Movement - Lumbering - Cool", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1982, "description": "GF FX parrot crash", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3006, "description": "Pet Movement - Ranine - Valiant", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1983, "description": "Banana Gun", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3007, "description": "Pet Movement - Ranine - Smart", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1984, "description": "GF FX parrot crash TEST", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3008, "description": "Pet Movement - Ranine - Cool", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1985, "description": "Shark Cannon", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3009, "description": "Pet Movement - Equine - Valiant", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1986, "description": "Whirlwind", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3010, "description": "Pet Movement - Equine - Smart", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1987, "description": "Maelstrom Chest", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3011, "description": "Pet Movement - Equine - Cool", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1988, "description": "PR - Cutscene Helper", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3012, "description": "Pet Movement - Reptilian - Valiant", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1989, "description": "Weeble Wobble", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3013, "description": "Pet Movement - Reptilian - Smart", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1990, "description": "Weeble Wobble Scale Test", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3014, "description": "Pet Movement - Reptilian - Cool", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1991, "description": "Pet Switch", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3015, "description": "Pet Personality - Everything For Now", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1992, "description": "Small Jets", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3016, "description": "Dragon Fire Test", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1993, "description": "Snake Temp", "groupType": "Enemy"}
+{"animationGroupID": 3017, "description": "troll_test", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1994, "description": "Organ Temp", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3018, "description": "bill_reveal", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1995, "description": "Pet Build Completion", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3019, "description": "Funky Monkey", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1996, "description": "Design Test Vehicle", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3020, "description": "Thrown Funky Monkey", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1997, "description": "Gonk", "groupType": "Ambient"}
+{"animationGroupID": 3021, "description": "Dragon Spawn Test", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1998, "description": "Hover Bot Cam", "groupType": "Ambient"}
+{"animationGroupID": 3022, "description": "Dragon Tooth Accessory", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1999, "description": "Crate Chicken", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3023, "description": "Moose Mission Giver", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2000, "description": "Stuff in Space", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3024, "description": "Draggle Mission Giver", "groupType": "MissionGiver"}
+{"animationGroupID": 2001, "description": "Faction Signage Animations", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3025, "description": "Draggle Ground Ambient", "groupType": "Ambient"}
+{"animationGroupID": 2002, "description": "Dice", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3026, "description": "Draggle Flying Ambient", "groupType": "Ambient"}
+{"animationGroupID": 2003, "description": "Ship Darkling Mech", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3027, "description": "LUP bunny", "groupType": "Ambient"}
+{"animationGroupID": 2004, "description": "Bulper", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3028, "description": "LUP chickadee FLY", "groupType": "Ambient"}
+{"animationGroupID": 2005, "description": "Thwok", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3029, "description": "LUP chickadee", "groupType": "Ambient"}
+{"animationGroupID": 2006, "description": "Racing Big Meteors", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3030, "description": "LUP penguin", "groupType": "Ambient"}
+{"animationGroupID": 2007, "description": "Racing Small Meteor", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3031, "description": "Test New Item", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2008, "description": "fx_rotation_locator", "groupType": "Ambient"}
+{"animationGroupID": 3032, "description": "LUP Maelstrom Beaver", "groupType": "Enemy"}
+{"animationGroupID": 3033, "description": "LUP Maelstrom Rabbit", "groupType": "Enemy"}
+{"animationGroupID": 2010, "description": "Player Emote", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3034, "description": "LUP Facehugger", "groupType": "Enemy"}
+{"animationGroupID": 2011, "description": "Organ Keys", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3035, "description": "Gorilla Anchor", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2012, "description": "Engineer Turret Rank 1", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3036, "description": "FV Racetrack Mama Dragon", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2013, "description": "Engineer Turret Rank 2", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3037, "description": "FV Racetrack Troll", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2014, "description": "Engineer Turret Rank 3", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3038, "description": "FV Racetrack Pillar 1", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2015, "description": "Guardian Troll", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3039, "description": "Paradox Celebrations", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2016, "description": "digup", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3040, "description": "Venture Celebration", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2017, "description": "Racing Hero Ship", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3041, "description": "Assembly Celebration", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2018, "description": "Racing Maelstrom Ship", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3042, "description": "Sentinel Celebration", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2019, "description": "Test Build Border", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3043, "description": "FV Racetrack Crowd - Darkling Pirate", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2020, "description": "Engineer Personal Fortress", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3044, "description": "FV Racetrack Crowd - Strombie", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2021, "description": "Lego Club Max", "groupType": "Ambient"}
+{"animationGroupID": 3045, "description": "Darkitect Reveal", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2022, "description": "Velocity Lane MissionGiver", "groupType": "MissionGiver"}
+{"animationGroupID": 3046, "description": "LUP Construction Bot", "groupType": "Ambient"}
+{"animationGroupID": 2023, "description": "Swifty McGurk", "groupType": "MissionGiver"}
+{"animationGroupID": 3047, "description": "LUP Sarge Bot Ambient", "groupType": "Ambient"}
+{"animationGroupID": 1000, "description": "Meteor Scene", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2024, "description": "Misc Items", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3048, "description": "LUP Sarge Bot MG", "groupType": "MissionGiver"}
+{"animationGroupID": 1001, "description": "Petswitch", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2025, "description": "Misc Cape Emotes", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3049, "description": "Venture Celebration Mesh Effect", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1002, "description": "Rooster", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2026, "description": "AG Turret", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3050, "description": "Assembly Celebration Mesh Effect", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1003, "description": "Troll", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2027, "description": "Misc Catbag Emotes", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3051, "description": "Sentinel Celebration Mesh Effect", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1004, "description": "Frog", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2028, "description": "Scratch Summoner Pet", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3052, "description": "Paradox Celebration Mesh Effect", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1005, "description": "Energy Sphere", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2029, "description": "Misc Parrot", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3053, "description": "TEST Animated Mech FX", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1006, "description": "Bull Test", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2030, "description": "Property Kiosk/Plaque", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3054, "description": "fx_car_snow", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1007, "description": "Spider Cave for Cinematic", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2031, "description": "Misc Owl Emotes", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3055, "description": "FV Racetrack Pillar 2", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1008, "description": "Nexus Window", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2032, "description": "T-Rex Set", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3056, "description": "FV Racetrack Pillar 3", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 1009, "description": "Skateboard Mount", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2033, "description": "Frog Hat Set", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3057, "description": "FV Racetrack Pillar 4", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2034, "description": "Winter Track Icicles", "groupType": "Ambient"}
+{"animationGroupID": 3058, "description": "NS Concert Lasers", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2035, "description": "AM Turret Gun", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3059, "description": "NS Concert Rockets", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2036, "description": "AM Shield Generator", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3060, "description": "FV Racetrack Gorilla", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2037, "description": "Inventor Kit Backpack ME", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3061, "description": "FV Racetrack Spider Baby", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2038, "description": "Inventor Kit Droid", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3062, "description": "Dinghy Sharkfins", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2039, "description": "Owl Backpack Idles", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3063, "description": "Skullken_tower_grenade", "groupType": "Ambient"}
+{"animationGroupID": 2040, "description": "Owl Shoulder Idles", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3064, "description": "Ninjago Whirlwind", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 2041, "description": "Owl Shoulder Jetpack Anims", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3065, "description": "AM Keg of Blasting Powder", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3066, "description": "Skeleton Drill", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3067, "description": "Skeleton Tower", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3068, "description": "Darkitect Camera", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3069, "description": "Nimbus Instance Cinematic", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3070, "description": "Generic Icon Celebrations Camera", "groupType": "NPCCreateInvalid"}
+{"animationGroupID": 3071, "description": "New Item Celebrate", "groupType": "NPCCreateInvalid"}

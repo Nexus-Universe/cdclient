@@ -1,0 +1,4 @@
+{"id": 0, "AbilityName": "invalid", "ImaginationCost": 0, "locStatus": 2}
+{"id": 1, "AbilityName": "Go To Object", "ImaginationCost": 0, "locStatus": 2}
+{"id": 2, "AbilityName": "Jump On Object", "ImaginationCost": 2, "locStatus": 2}
+{"id": 3, "AbilityName": "Dig At Position", "ImaginationCost": 1, "locStatus": 2}

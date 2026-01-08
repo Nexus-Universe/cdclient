@@ -1,0 +1,4 @@
+{"id": 4, "xDistance": 0.0, "yDistance": 0.0, "warnDistance": 0.0, "lotBlocker": 16044, "lotWarningVolume": 15842}
+{"id": 1, "xDistance": 0.0, "yDistance": 0.0, "warnDistance": 0.0, "lotBlocker": 14532, "lotWarningVolume": 15842}
+{"id": 2, "xDistance": 60.0, "yDistance": 80.0, "warnDistance": 22.0, "lotBlocker": null, "lotWarningVolume": null}
+{"id": 3, "xDistance": 50.0, "yDistance": 28.0, "warnDistance": 15.0, "lotBlocker": null, "lotWarningVolume": null}

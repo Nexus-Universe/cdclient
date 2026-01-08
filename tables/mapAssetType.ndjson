@@ -1,0 +1,11 @@
+{"id": 0, "label": "Structure", "pathdir": "str", "typelabel": "Structure"}
+{"id": 1, "label": "Vehicles", "pathdir": "veh", "typelabel": "vehicles"}
+{"id": 2, "label": "Tree", "pathdir": "tree", "typelabel": "Tree"}
+{"id": 3, "label": "Store", "pathdir": "store", "typelabel": "Store"}
+{"id": 4, "label": "Environment", "pathdir": "env", "typelabel": "Environmental"}
+{"id": 5, "label": "Flair", "pathdir": "flair", "typelabel": "Flair"}
+{"id": 6, "label": "LEGO brick", "pathdir": "brickElements\\\\\\\\single_mesh", "typelabel": "LEGO brick"}
+{"id": 7, "label": "Misc", "pathdir": "misc", "typelabel": "Misc"}
+{"id": 8, "label": "Enemy", "pathdir": "enemy", "typelabel": "enemy"}
+{"id": 9, "label": "NPC", "pathdir": "npc", "typelabel": "NPC"}
+{"id": 10, "label": "HFHelper", "pathdir": "hfhelper", "typelabel": "HFHelper"}

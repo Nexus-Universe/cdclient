@@ -1,0 +1,8 @@
+{"id": 8, "Name": "WorldLauncher", "Radius": 80, "CollisionGroup": 1, "PassiveChecks": 1, "IconID": 74, "LoadOnClient": 1, "LoadOnServer": 0}
+{"id": 9, "Name": "PropertyLauncher", "Radius": 80, "CollisionGroup": 1, "PassiveChecks": 1, "IconID": 83, "LoadOnClient": 1, "LoadOnServer": 0}
+{"id": 10, "Name": "Low WorldLauncher", "Radius": 80, "CollisionGroup": 1, "PassiveChecks": 1, "IconID": 171, "LoadOnClient": 1, "LoadOnServer": 0}
+{"id": 2, "Name": "Test Proximity", "Radius": 10, "CollisionGroup": 1, "PassiveChecks": 1, "IconID": 1, "LoadOnClient": 1, "LoadOnServer": 0}
+{"id": 3, "Name": "Test Prox Large", "Radius": 20, "CollisionGroup": 1, "PassiveChecks": 1, "IconID": 3, "LoadOnClient": 1, "LoadOnServer": 1}
+{"id": 4, "Name": "Scripted", "Radius": 30, "CollisionGroup": 1, "PassiveChecks": 1, "IconID": 0, "LoadOnClient": 1, "LoadOnServer": 0}
+{"id": 5, "Name": "Property Icon", "Radius": 30, "CollisionGroup": 1, "PassiveChecks": 1, "IconID": 1, "LoadOnClient": 1, "LoadOnServer": 0}
+{"id": 7, "Name": "RocketSign", "Radius": 30, "CollisionGroup": 1, "PassiveChecks": 1, "IconID": -1, "LoadOnClient": 1, "LoadOnServer": 0}

@@ -1,0 +1,6 @@
+{"id": 1, "typeID": 0, "slamVelocity": 15.0, "addVelocity": -30.0, "duration": null, "destGroupName": null, "startScale": null, "endScale": null, "velocity": null, "distance": null}
+{"id": 2, "typeID": 1, "slamVelocity": null, "addVelocity": null, "duration": 0.75, "destGroupName": "ChestGroup", "startScale": 1.0, "endScale": 0.10000000149011612, "velocity": null, "distance": null}
+{"id": 3, "typeID": 2, "slamVelocity": null, "addVelocity": null, "duration": 1.0, "destGroupName": null, "startScale": 0.5, "endScale": 3.0, "velocity": null, "distance": null}
+{"id": 4, "typeID": 2, "slamVelocity": null, "addVelocity": null, "duration": 0.25, "destGroupName": null, "startScale": 0.009999999776482582, "endScale": 0.0, "velocity": null, "distance": null}
+{"id": 5, "typeID": 3, "slamVelocity": null, "addVelocity": null, "duration": 0.5, "destGroupName": "pulltopoint", "startScale": 1.0, "endScale": 1.0, "velocity": null, "distance": null}
+{"id": 6, "typeID": 4, "slamVelocity": 0.0625, "addVelocity": 0.25, "duration": 0.5, "destGroupName": null, "startScale": null, "endScale": null, "velocity": 6.0, "distance": 0.5}

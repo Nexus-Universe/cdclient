@@ -1,0 +1,12 @@
+{"id": 1, "ModuleStat": "TopSpeed", "HavokStat": "fMaxSpeed", "HavokChangePerModuleStat": 6.0}
+{"id": 1, "ModuleStat": "TopSpeed", "HavokStat": "fRearTireFrictionSlide", "HavokChangePerModuleStat": 0.0062500000931322575}
+{"id": 2, "ModuleStat": "Acceleration", "HavokStat": "fEngineTorque", "HavokChangePerModuleStat": 600.0}
+{"id": 3, "ModuleStat": "Handling", "HavokStat": "fInputDeadTurnBackSpeed", "HavokChangePerModuleStat": 1.2000000476837158}
+{"id": 3, "ModuleStat": "Handling", "HavokStat": "fInputTurnSpeed", "HavokChangePerModuleStat": 1.2000000476837158}
+{"id": 3, "ModuleStat": "Handling", "HavokStat": "fSteeringMaxAngle", "HavokChangePerModuleStat": 0.8999999761581421}
+{"id": 3, "ModuleStat": "Handling", "HavokStat": "fSteeringSpeedLimitForMaxAngle", "HavokChangePerModuleStat": 2.5999999046325684}
+{"id": 4, "ModuleStat": "Stability", "HavokStat": "fWreckMinAngle", "HavokChangePerModuleStat": 1.5}
+{"id": 4, "ModuleStat": "Stability", "HavokStat": "fWreckSpeedBase", "HavokChangePerModuleStat": 4.0}
+{"id": 4, "ModuleStat": "Stability", "HavokStat": "fWreckSpeedPercent", "HavokChangePerModuleStat": 4.0}
+{"id": 5, "ModuleStat": "Imagination", "HavokStat": "fBoostCostPerSecond", "HavokChangePerModuleStat": -1.0}
+{"id": 5, "ModuleStat": "Imagination", "HavokStat": "fImaginationTankSize", "HavokChangePerModuleStat": 10.0}

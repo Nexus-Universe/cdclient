@@ -1,0 +1,23 @@
+{"id": 1, "description": "Brick", "equipLocation": ""}
+{"id": 2, "description": "Hat", "equipLocation": "head"}
+{"id": 3, "description": "Hair", "equipLocation": "hair"}
+{"id": 4, "description": "Neck", "equipLocation": "clavicle"}
+{"id": 5, "description": "Left Hand", "equipLocation": "special_l"}
+{"id": 6, "description": "Right Hand", "equipLocation": "special_r"}
+{"id": 7, "description": "Legs", "equipLocation": "legs"}
+{"id": 8, "description": "Left Trinket", "equipLocation": "trinket_l"}
+{"id": 9, "description": "Right Trinket", "equipLocation": "trinket_r"}
+{"id": 10, "description": "Behavior", "equipLocation": ""}
+{"id": 11, "description": "Property", "equipLocation": ""}
+{"id": 12, "description": "Model", "equipLocation": ""}
+{"id": 13, "description": "Collectable", "equipLocation": ""}
+{"id": 14, "description": "Consumable", "equipLocation": ""}
+{"id": 15, "description": "Chest", "equipLocation": "chest"}
+{"id": 16, "description": "Egg", "equipLocation": ""}
+{"id": 17, "description": "Pet Food", "equipLocation": ""}
+{"id": 18, "description": "Quest Object", "equipLocation": ""}
+{"id": 19, "description": "Pet Inventory Item", "equipLocation": ""}
+{"id": 20, "description": "Package", "equipLocation": ""}
+{"id": 21, "description": "Loot Model", "equipLocation": ""}
+{"id": 22, "description": "Vehicle", "equipLocation": ""}
+{"id": 23, "description": "Currency", "equipLocation": null}

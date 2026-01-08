@@ -1,0 +1,13 @@
+{"id": 1, "gameID": 1, "description": "Fade Effect"}
+{"id": 2, "gameID": 2, "description": "Transparent"}
+{"id": 3, "gameID": 3, "description": "Grayscale"}
+{"id": 4, "gameID": 4, "description": "Color Glow"}
+{"id": 5, "gameID": 5, "description": "sparkle"}
+{"id": 6, "gameID": 6, "description": "swap shader"}
+{"id": 7, "gameID": 7, "description": "fade up"}
+{"id": 8, "gameID": 8, "description": "brick color cycle"}
+{"id": 9, "gameID": 9, "description": "shiny glint"}
+{"id": 10, "gameID": 10, "description": "cycling color glow"}
+{"id": 11, "gameID": 11, "description": "Metal"}
+{"id": 12, "gameID": 12, "description": "change render environment"}
+{"id": 13, "gameID": 13, "description": "freeze animations"}

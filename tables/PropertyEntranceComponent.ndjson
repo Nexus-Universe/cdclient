@@ -1,0 +1,12 @@
+{"id": 3, "mapID": 1150, "propertyName": "AGSmallProperty", "isOnProperty": 0, "groupType": null}
+{"id": 4, "mapID": 1150, "propertyName": "AGSmallProperty", "isOnProperty": 1, "groupType": null}
+{"id": 5, "mapID": 1151, "propertyName": "AGMedProperty", "isOnProperty": 0, "groupType": null}
+{"id": 6, "mapID": 1151, "propertyName": "AGMedProperty", "isOnProperty": 1, "groupType": null}
+{"id": 7, "mapID": 1250, "propertyName": "NSSmallProperty", "isOnProperty": 0, "groupType": null}
+{"id": 8, "mapID": 1251, "propertyName": "NSMedProperty", "isOnProperty": 0, "groupType": null}
+{"id": 9, "mapID": 1250, "propertyName": "NSSmallProperty", "isOnProperty": 1, "groupType": null}
+{"id": 10, "mapID": 1251, "propertyName": "NSMedProperty", "isOnProperty": 1, "groupType": null}
+{"id": 11, "mapID": 1350, "propertyName": "GFSmallProperty", "isOnProperty": 0, "groupType": null}
+{"id": 12, "mapID": 1350, "propertyName": "GFSmallProperty", "isOnProperty": 1, "groupType": null}
+{"id": 13, "mapID": 1450, "propertyName": "FVSmallProperty", "isOnProperty": 0, "groupType": null}
+{"id": 14, "mapID": 1450, "propertyName": "FVSmallProperty", "isOnProperty": 1, "groupType": null}

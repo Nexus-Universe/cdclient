@@ -1,0 +1,3 @@
+{"id": 0, "countryCode": "US", "monthlyFeeGold": "7.50", "monthlyFeeSilver": "8.33", "monthlyFeeBronze": "9.99", "monetarySymbol": 36, "symbolIsAppended": 0}
+{"id": 1, "countryCode": "GB", "monthlyFeeGold": "5.83", "monthlyFeeSilver": "6.67", "monthlyFeeBronze": "7.49", "monetarySymbol": 163, "symbolIsAppended": 0}
+{"id": 2, "countryCode": "DE", "monthlyFeeGold": "7,50", "monthlyFeeSilver": "8,33", "monthlyFeeBronze": "9,99", "monetarySymbol": 8364, "symbolIsAppended": 0}

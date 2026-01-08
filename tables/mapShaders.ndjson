@@ -1,0 +1,100 @@
+{"id": 0, "label": "Fixed Function", "gameValue": -1, "priority": 1}
+{"id": 1, "label": "LEGO", "gameValue": 5, "priority": 850}
+{"id": 3, "label": "Clear Plastic", "gameValue": 6, "priority": 718}
+{"id": 4, "label": "Terrain Mesh", "gameValue": 2, "priority": 400}
+{"id": 5, "label": "VertColor_Alpha", "gameValue": 7, "priority": 49}
+{"id": 6, "label": "LEGO-Reveal", "gameValue": 12, "priority": 550}
+{"id": 7, "label": "VertColorTex_NoLight_AlphaBlend", "gameValue": 10, "priority": 50}
+{"id": 8, "label": "TV Screen", "gameValue": 17, "priority": 701}
+{"id": 9, "label": "LEGO (No LOD)", "gameValue": 4, "priority": 851}
+{"id": 10, "label": "Head Icon", "gameValue": 18, "priority": 99}
+{"id": 11, "label": "LEGO_FrontEnd", "gameValue": 25, "priority": 722}
+{"id": 12, "label": "Powerups", "gameValue": 19, "priority": 600}
+{"id": 13, "label": "ScrollingUV", "gameValue": 13, "priority": 501}
+{"id": 14, "label": "LEGO Masked NonDecal", "gameValue": 14, "priority": 702}
+{"id": 15, "label": "Undefined", "gameValue": 14, "priority": 703}
+{"id": 16, "label": "Orb", "gameValue": 20, "priority": 704}
+{"id": 17, "label": "Terrain Mesh Rim Light", "gameValue": 3, "priority": 504}
+{"id": 18, "label": "Model Footprint", "gameValue": 21, "priority": 705}
+{"id": 19, "label": "LEGO-SuperEmissive", "gameValue": 22, "priority": 706}
+{"id": 20, "label": "Over Everything (Unlit)", "gameValue": 23, "priority": 1500}
+{"id": 21, "label": "LEGO-AnimUV", "gameValue": 30, "priority": 708}
+{"id": 22, "label": "VertColor_NoLighting_Alpha", "gameValue": 8, "priority": 42}
+{"id": 23, "label": "LEGO-Item", "gameValue": 31, "priority": 709}
+{"id": 24, "label": "Basic NL Material", "gameValue": 32, "priority": 43}
+{"id": 25, "label": "Basic NL VC NT", "gameValue": 33, "priority": 44}
+{"id": 26, "label": "Basic NL", "gameValue": 34, "priority": 45}
+{"id": 27, "label": "Basic NL VC", "gameValue": 35, "priority": 46}
+{"id": 28, "label": "Basic NL UVAnim", "gameValue": 36, "priority": 47}
+{"id": 29, "label": "Basic VC NT", "gameValue": 37, "priority": 48}
+{"id": 30, "label": "Basic VC", "gameValue": 38, "priority": 49}
+{"id": 31, "label": "Basic VC UVAnim", "gameValue": 39, "priority": 50}
+{"id": 32, "label": "Fogless GrayBubble", "gameValue": 24, "priority": 1500}
+{"id": 33, "label": "VertColor_Alpha_Fade", "gameValue": 9, "priority": 250}
+{"id": 34, "label": "VertColor_NoLight_NoTex_AnimAlpha", "gameValue": 11, "priority": 240}
+{"id": 35, "label": "VC_NoLighting_2D", "gameValue": 15, "priority": 98}
+{"id": 36, "label": "VC_NL_NoTex_2D", "gameValue": 16, "priority": 99}
+{"id": 37, "label": "LEGO_FaceCreate", "gameValue": 26, "priority": 711}
+{"id": 38, "label": "LEGO-Glow", "gameValue": 27, "priority": 712}
+{"id": 39, "label": "LEGO-Grayscale", "gameValue": 28, "priority": 713}
+{"id": 40, "label": "LEGO-Glow-IgnoreVertAlpha", "gameValue": 29, "priority": 40}
+{"id": 41, "label": "LEGO-ItemGlow", "gameValue": 48, "priority": 714}
+{"id": 42, "label": "Experimental Stub", "gameValue": 49, "priority": 715}
+{"id": 43, "label": "LEGO-FadeUp", "gameValue": 50, "priority": 716}
+{"id": 44, "label": "BrickWater", "gameValue": 51, "priority": 719}
+{"id": 45, "label": "LEGO-No Light", "gameValue": 52, "priority": 699}
+{"id": 46, "label": "LEGO-Emissive", "gameValue": 53, "priority": 717}
+{"id": 47, "label": "VertColorTex_NoLight_AlphaTest", "gameValue": 54, "priority": 70}
+{"id": 48, "label": "OneSidedAlpha VC", "gameValue": 55, "priority": 103}
+{"id": 49, "label": "OneSidedAlpha NL", "gameValue": 56, "priority": 102}
+{"id": 50, "label": "OneSidedAlpha NL VC", "gameValue": 57, "priority": 101}
+{"id": 51, "label": "OneSidedAlpha NL VC NT", "gameValue": 58, "priority": 100}
+{"id": 52, "label": "OneSidedAlpha AnimUV V Skinned", "gameValue": 59, "priority": 198}
+{"id": 53, "label": "OneSidedAlpha VC Skinned", "gameValue": 60, "priority": 200}
+{"id": 54, "label": "OneSidedAlpha NL Skinned", "gameValue": 61, "priority": 201}
+{"id": 55, "label": "OneSidedAlpha NL VC Skinned", "gameValue": 62, "priority": 202}
+{"id": 56, "label": "OneSidedAlpha NL VC NT Skinned", "gameValue": 63, "priority": 203}
+{"id": 57, "label": "OneSidedAlpha AnimUV V", "gameValue": 64, "priority": 199}
+{"id": 58, "label": "VC_Texture_Emissive", "gameValue": 65, "priority": 497}
+{"id": 59, "label": "OneSidedAlpha NL AnimAlpha", "gameValue": 68, "priority": 498}
+{"id": 60, "label": "Distortion (Ocean)", "gameValue": 69, "priority": 650}
+{"id": 61, "label": "ScrollingUV_NoLight_AnimAlpha", "gameValue": 70, "priority": 502}
+{"id": 62, "label": "PostProcess Gray Bubble", "gameValue": 71, "priority": 1001}
+{"id": 63, "label": "ShinyGlint", "gameValue": 72, "priority": 500}
+{"id": 64, "label": "ScrollingUV_NoLight_AimAlpha_Post", "gameValue": 73, "priority": 505}
+{"id": 65, "label": "Darkling", "gameValue": 75, "priority": 851}
+{"id": 66, "label": "Darkling /w Specular", "gameValue": 76, "priority": 852}
+{"id": 67, "label": "Darkling Structure", "gameValue": 77, "priority": 853}
+{"id": 68, "label": "Flat Surf", "gameValue": 78, "priority": 503}
+{"id": 69, "label": "Post Process Gray Bubble Interior Ghost", "gameValue": 79, "priority": 1005}
+{"id": 70, "label": "Basic NL NT", "gameValue": 80, "priority": 41}
+{"id": 71, "label": "ScrollingUV NL AnimAlpha NoFog", "gameValue": 81, "priority": 506}
+{"id": 72, "label": "Opaque NL VC NT NoFog", "gameValue": 82, "priority": 723}
+{"id": 73, "label": "Opaque NL NoFog", "gameValue": 83, "priority": 724}
+{"id": 74, "label": "Opaque NL VC NoFog", "gameValue": 84, "priority": 725}
+{"id": 75, "label": "Opaque VC NT NoFog", "gameValue": 85, "priority": 726}
+{"id": 76, "label": "Opaque VC NoFog", "gameValue": 86, "priority": 727}
+{"id": 77, "label": "Additive NoLight VertColor", "gameValue": 87, "priority": 1237}
+{"id": 78, "label": "LEGO NoAmbient", "gameValue": 88, "priority": 869}
+{"id": 79, "label": "Distortion Directional (Ocean)", "gameValue": 89, "priority": 798}
+{"id": 80, "label": "Distortion FX (Ocean)", "gameValue": 90, "priority": 799}
+{"id": 81, "label": "Pet Taming Imagination Cloud", "gameValue": 91, "priority": 2000}
+{"id": 82, "label": "Pet Taming LEGO In Cloud", "gameValue": 92, "priority": 2001}
+{"id": 83, "label": "Two Textures Added NL VC AnimUV", "gameValue": 93, "priority": 900}
+{"id": 84, "label": "Basic", "gameValue": 94, "priority": 200}
+{"id": 85, "label": "Distortion NoDepth (Ocean) (Alpha)", "gameValue": 95, "priority": 800}
+{"id": 86, "label": "Undefined", "gameValue": 96, "priority": 850}
+{"id": 87, "label": "Terrain Diffuse Map Only", "gameValue": 97, "priority": 750}
+{"id": 88, "label": "Polished Metal", "gameValue": 98, "priority": 500}
+{"id": 89, "label": "Brushed Steel", "gameValue": 99, "priority": 500}
+{"id": 90, "label": "Brushed Steel Item", "gameValue": 100, "priority": null}
+{"id": 91, "label": "Distortion (Ocean) Unlit", "gameValue": 101, "priority": 650}
+{"id": 92, "label": "Darking Shiny Glint", "gameValue": 102, "priority": 851}
+{"id": 93, "label": "Darkling /w Specular Shiny Glint", "gameValue": 103, "priority": 852}
+{"id": 94, "label": "Darkling Structure Shiny Glint", "gameValue": 104, "priority": 853}
+{"id": 95, "label": "Two Layers Blended NL VC AnimUV", "gameValue": 105, "priority": 900}
+{"id": 96, "label": "Two Layers Blended VC AnimUV", "gameValue": 106, "priority": 900}
+{"id": 97, "label": "Two Layers Added VC AnimUV", "gameValue": 107, "priority": 900}
+{"id": 98, "label": "Drop Shadow", "gameValue": 74, "priority": 2000}
+{"id": 99, "label": "Over Everything Material Unlit", "gameValue": 108, "priority": 1500}
+{"id": 100, "label": "Multishader", "gameValue": 9999, "priority": 9999}
