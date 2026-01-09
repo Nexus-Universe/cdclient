@@ -1,13 +1,5 @@
-{"id": 128, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 822}
-{"id": 129, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 826}
-{"id": 130, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 823}
-{"id": 131, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 894}
 {"id": 4, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 40}
-{"id": 134, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 924}
 {"id": 7, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 42}
-{"id": 135, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 925}
-{"id": 135, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": null}
-{"id": 136, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": null}
 {"id": 9, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 44}
 {"id": 12, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 59}
 {"id": 16, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 115}
@@ -93,3 +85,10 @@
 {"id": 125, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 825}
 {"id": 126, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 824}
 {"id": 127, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 827}
+{"id": 128, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 822}
+{"id": 129, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 826}
+{"id": 130, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 823}
+{"id": 131, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 894}
+{"id": 134, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 924}
+{"id": 135, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 925}
+{"id": 136, "buyScalar": 1.0, "sellScalar": 0.10000000149011612, "refreshTimeSeconds": 1800.0, "LootMatrixIndex": 0}

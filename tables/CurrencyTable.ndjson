@@ -2,7 +2,6 @@
 {"currencyIndex": 1, "npcminlevel": 2, "minvalue": 5, "maxvalue": 9, "id": 3}
 {"currencyIndex": 1, "npcminlevel": 3, "minvalue": 9, "maxvalue": 15, "id": 5}
 {"currencyIndex": 1, "npcminlevel": 4, "minvalue": 30, "maxvalue": 50, "id": 6}
-{"currencyIndex": 1, "npcminlevel": 5, "minvalue": 60, "maxvalue": 100, "id": 253}
 {"currencyIndex": 2, "npcminlevel": 1, "minvalue": 3, "maxvalue": 5, "id": 45}
 {"currencyIndex": 2, "npcminlevel": 2, "minvalue": 5, "maxvalue": 9, "id": 46}
 {"currencyIndex": 2, "npcminlevel": 3, "minvalue": 9, "maxvalue": 15, "id": 47}
@@ -151,6 +150,7 @@
 {"currencyIndex": 117, "npcminlevel": 1, "minvalue": 175, "maxvalue": 300, "id": 250}
 {"currencyIndex": 118, "npcminlevel": 1, "minvalue": 301, "maxvalue": 600, "id": 251}
 {"currencyIndex": 119, "npcminlevel": 1, "minvalue": 601, "maxvalue": 900, "id": 252}
+{"currencyIndex": 1, "npcminlevel": 5, "minvalue": 60, "maxvalue": 100, "id": 253}
 {"currencyIndex": 120, "npcminlevel": 1, "minvalue": 250, "maxvalue": 250, "id": 254}
 {"currencyIndex": 121, "npcminlevel": 1, "minvalue": 500, "maxvalue": 500, "id": 255}
 {"currencyIndex": 122, "npcminlevel": 1, "minvalue": 7, "maxvalue": 12, "id": 256}
