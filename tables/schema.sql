@@ -1826,8 +1826,6 @@ CREATE TABLE "map_BlueprintCategory" (
 	PRIMARY KEY("id" AUTOINCREMENT)
 );
 
-CREATE TABLE sqlite_sequence(name,seq);
-
 CREATE TABLE "sysdiagrams"
 (
     [name] TEXT4,
