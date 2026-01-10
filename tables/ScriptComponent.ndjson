@@ -74,6 +74,7 @@
 {"id": 225, "script_name": "scripts\\ai\\ACT\\L_ACT_REBUILD_TUTORIAL_NPC.lua", "client_script_name": "scripts\\client\\ai\\L_ACT_REBUILD_TUTORIAL_NPC.lua"}
 {"id": 226, "script_name": "scripts\\zone\\L_ZONE_ACT_REBUILD_TUTORIAL.lua", "client_script_name": null}
 {"id": 227, "script_name": "scripts\\ai\\ACT\\L_ACT_REBUILD_TUTORIAL_1.lua", "client_script_name": "scripts\\client\\ai\\L_ACT_REBUILD_TUTORIAL_1.lua"}
+{"id": 228, "script_name": "scripts\\ai\\FV\\L_ACT_NINJA_SENSEI.lua", "client_script_name": null}
 {"id": 229, "script_name": "scripts\\ai\\FV\\L_ACT_NINJA_STUDENT.lua", "client_script_name": null}
 {"id": 230, "script_name": "scripts\\ai\\FV\\L_ACT_NINJA_STUDENT_MASTER.lua", "client_script_name": null}
 {"id": 231, "script_name": "scripts\\ai\\FV\\L_ACT_NINJA_BRICKS.lua", "client_script_name": null}
