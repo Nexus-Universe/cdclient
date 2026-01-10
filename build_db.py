@@ -6,6 +6,12 @@ from pathlib import Path
 import argparse
 
 def build_db(db_path: str, in_dir: str = "tables", schema_path: str = "schema.sql"):
+    # Ensure the directory for the database file exists
+    db_dir = os.path.dirname(db_path)
+    if db_dir and not os.path.exists(db_dir):
+        os.makedirs(db_dir)
+        print(f"Created directory: {db_dir}")
+    
     if os.path.exists(db_path):
         os.remove(db_path)
         print(f"Removed existing {db_path}")
