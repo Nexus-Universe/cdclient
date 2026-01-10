@@ -6,7 +6,6 @@ from pathlib import Path
 import argparse
 
 def export_db(db_path: str, out_dir: str = "tables"):
-    
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
     cur = conn.cursor()
