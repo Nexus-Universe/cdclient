@@ -41155,3 +41155,9 @@
 {"behaviorID": 50006, "templateID": 23, "effectID": 0, "effectHandle": ""}
 {"behaviorID": 50007, "templateID": 3, "effectID": 0, "effectHandle": ""}
 {"behaviorID": 60888, "templateID": 6, "effectID": 0, "effectHandle": ""}
+{"behaviorID": 60882, "templateID": 3, "effectID": 0, "effectHandle": null}
+{"behaviorID": 60883, "templateID": 7, "effectID": 0, "effectHandle": null}
+{"behaviorID": 60884, "templateID": 18, "effectID": 4784, "effectHandle": null}
+{"behaviorID": 60886, "templateID": 16, "effectID": 0, "effectHandle": null}
+{"behaviorID": 60887, "templateID": 3, "effectID": 0, "effectHandle": null}
+{"behaviorID": 60908, "templateID": 8, "effectID": 10038, "effectHandle": "10038"}
