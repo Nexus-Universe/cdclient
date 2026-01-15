@@ -4206,3 +4206,10 @@
 {"objectTemplate": 12285, "skillID": 941, "castOnType": 0, "AICombatWeight": 0}
 {"objectTemplate": 12286, "skillID": 958, "castOnType": 0, "AICombatWeight": 100}
 {"objectTemplate": 12287, "skillID": 1200, "castOnType": null, "AICombatWeight": null}
+{"objectTemplate": 49001, "skillID": 378, "castOnType": 1, "AICombatWeight": null}
+{"objectTemplate": 49001, "skillID": 290, "castOnType": 0, "AICombatWeight": 0}
+{"objectTemplate": 49002, "skillID": 360, "castOnType": 1, "AICombatWeight": null}
+{"objectTemplate": 49002, "skillID": 374, "castOnType": 1, "AICombatWeight": null}
+{"objectTemplate": 49003, "skillID": 371, "castOnType": 1, "AICombatWeight": null}
+{"objectTemplate": 49003, "skillID": 379, "castOnType": 1, "AICombatWeight": null}
+{"objectTemplate": 49003, "skillID": 314, "castOnType": 0, "AICombatWeight": null}
